@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "ExCoin"
+date:   2016-06-21 11:52:03 -0700
+categories: bitcoin breach
+link: http://archive.is/ZDYw3
+---
+Media: http://cointelegraph.com/news/notorious-hacker-group-involved-in-excoin-theft-owner-accuses-ccedk-of-withholding-info
+Post Mortem: http://archive.is/ZDYw3

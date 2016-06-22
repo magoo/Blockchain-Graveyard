@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "796"
+date:   2016-06-21 11:52:03 -0700
+categories: bitcoin breach
+link: http://cointelegraph.com/news/chinese-exchange-suffers-1000-btc-loss-in-uncertain-service-compromise
+---

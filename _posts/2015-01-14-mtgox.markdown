@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "MT Gox"
+date:   2016-06-21 11:52:03 -0700
+categories: bitcoin breach
+link: http://www.nytimes.com/2014/02/25/business/apparent-theft-at-mt-gox-shakes-bitcoin-world.html?_r=0
+---
+Media: http://www.nytimes.com/2014/02/25/business/apparent-theft-at-mt-gox-shakes-bitcoin-world.html?_r=0

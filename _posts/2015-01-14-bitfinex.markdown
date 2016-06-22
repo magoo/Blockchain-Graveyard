@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "BitFinex"
+date:   2016-06-21 11:52:03 -0700
+categories: bitcoin breach
+link: http://archive.is/xqu4F
+---
+
+Post Mortem: https://www.bitfinex.com/posts/37
+Post Mortem: https://www.bitfinex.com/posts/35
+Media: http://www.coindesk.com/bitfinex-warns-customers-to-halt-deposits-after-suspected-hack/
+Mirror: http://archive.is/xqu4F

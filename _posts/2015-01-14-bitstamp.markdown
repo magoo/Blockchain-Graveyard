@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Bitstamp"
+date:   2015-01-14 11:52:03 -0700
+categories: Breach
+link: https://www.bitstamp.net/article/relaunch-faq/
+---
+
+https://www.bitstamp.net/article/bitstamp-is-open-for-business-better-than-ever/
+https://nakedsecurity.sophos.com/2015/01/07/bitstamp-loses-5-million-in-btc-after-security-breach-suspends-service/
+https://www.bitstamp.net/article/relaunch-faq/

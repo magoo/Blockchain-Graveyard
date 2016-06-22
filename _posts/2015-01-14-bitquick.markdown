@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "BitQuick"
+date:   2016-06-21 11:52:03 -0700
+categories: bitcoin breach
+link: http://archive.is/LWsO5
+---
+
+Post Mortem: https://www.bitquick.co/blog/bitquick-details
+Media: http://www.newsbtc.com/2016/03/18/bitquick-security-breach/
+Mirror: http://archive.is/LWsO5

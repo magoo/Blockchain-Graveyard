@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "Vircurex"
+date:   2016-06-21 11:52:03 -0700
+categories: bitcoin breach
+link: https://vircurex.com/Reports/2013-05.pdf
+---
+Post Mortem: https://vircurex.com/Reports/2013-05.pdf
+Mirror: http://archive.is/K3MKJ

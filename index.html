@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<div class="home">
+
+  <!-- <h1 class="page-heading">Compromises</h1> -->
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <h2>
+          <a class="post-link" href="{{ post.link | prepend: site.baseurl }}">{{ post.title }}</a>
+        </h2>
+        <div>
+        </div>
+      </li>
+    {% endfor %}
+  </ul>
+
+</div>

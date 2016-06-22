@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "inputs.io"
+date:   2016-06-21 11:52:03 -0700
+categories: bitcoin breach
+link: http://archive.is/1eyKg
+---
+Media: http://www.wired.com/2013/11/inputs/
+Archive: http://archive.is/1eyKg

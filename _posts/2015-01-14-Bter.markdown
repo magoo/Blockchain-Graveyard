@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "BTER"
+date:   2016-06-21 11:52:03 -0700
+categories: bitcoin breach
+link: http://www.coindesk.com/bter-nxt-bitcoin-exchange-hack/
+---
+
+Media: http://www.coindesk.com/bter-bitcoin-stolen-cold-wallet-hack/
+Second Hack: http://www.coindesk.com/bter-nxt-bitcoin-exchange-hack/
