@@ -10,6 +10,7 @@ Blockchain projects of any kind risk massive, existential security breaches. Mor
 
  1. They know about their incidents almost immediately (missing funds)
  2. They cannot hide that they had an incident (without massive out of pocket refunds)
+ 3. The incident is entirely visible (via a blockchain)
 
  If this seems intimidating, here's some advice!
 
