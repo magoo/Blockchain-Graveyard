@@ -15,19 +15,17 @@ Blockchain projects of any kind risk massive, existential security breaches. Mor
 
 ### Security
 
-[Cold Storage][CS] can reduce the impact of a security breach from 100% to a configurable percentage. The graveyard listings that are still in operation are almost exclusive to those using cold storage.
+[Cold Storage][CS] can reduce the impact of a security breach from 100% to a configurable percentage. After this, reduce your risk of a large hot wallet even further with cryptographic hardware or multisignature transactions.
 
-[Starting up Security][SUS] is an overall approach to security, company wide.
+[Starting up Security][SUS] is advice for company wide security.
 
 [Product Security][SUSSPS] and [Modern Product Security][MPS] discuss the development of a secure product.
 
-[Investigating Account Takeover][SUSSATO] discusses the massive amounts of phishing, malware, and other attacks that will directly target your users and steal their money.
+[Investigating Account Takeover][SUSSATO] discusses the massive amounts of phishing, malware, and other attacks that will directly target and steal from your customers. [Preventing Account Takeover][SUSSPAT] will discuss the automated ways you can prevent takeover of your customer accounts.
 
-[Preventing Account Takeover][SUSSPAT] will discuss the automated ways you can prevent takeover of your customer accounts.
+[Bounty Launch Lessons][SUSBB] and [Bug Bounty 5 Years In][BBFYI] will help you start a bug bounty program from scratch.
 
-[Bounty Launch Lessons][SUSBB] and [Bug Bounty 5 Years In][BBFYI] will help you start a bug bounty program.
-
-[Red Teams][SUSRT] will help you think like your adversary and simulate a worst case incident scenario before it happens.
+[Red Teams][SUSRT] will help you simulate a worst case incident scenario before it happens.
 
 [Scott Roberts from Github][IRDEAD] writes about hunting for adversaries on your infrastructure. [Ryan Huber from Slack][DSA] discusses approaches to alerting.
 
@@ -37,7 +35,7 @@ Blockchain projects of any kind risk massive, existential security breaches. Mor
 
 ### About
 
-This started as `bitcoin_breaches.txt` on my laptop. After 30 or so entries, I figured this would help bring [Starting Up Security][SUSS] to the bitcoin / ethereum community. A much more broad list exists [here at bitcointalk][bitcointalk].
+This started as `bitcoin_breaches.txt` on my laptop. After 30 or so entries, I figured this would help bring [Starting Up Security][SUSS] to the BTC / ETH community. A much more broad list exists [here at bitcointalk][bitcointalk] that includes scams and fraud.
 
 Feel free to suggest additions to the graveyard or advice section in pull requests.
 
