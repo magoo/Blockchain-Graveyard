@@ -6,6 +6,7 @@ categories: bitcoin breach
 link: http://archive.is/ANGeU
 ---
 (Translated)
+
 On 26 July 2011, at about 23:00 am, I have found the overloaded the Bitcoin server and I had to increase the RAM. As a result of this operation, the entire virtual machine was removed, and with it all the information, including the wallet and all of its backups. I have found that the data did not go into Nirvana because the Virtual Machine settings have been changed, even though I have changed even nothing. Our Hoster, Amazon Web Services Company, indicates that the deleted machine was adjusted so that they are once you shut down irrevocably "destroyed" (including all data on the hard disks).
 I am still determine who changed the settings on the VM and whether it is possible to recover the deleted data. Unfortunately, the collaboration with Amazon Web Services (AWS) to be very difficult. Once I realized that the virtual machine is lost, I immediately ordered AWS premium support, talked to the manager and asked for protection of my data. So far without success.
 To this day I could not find out the exact reasons for the misery. I suspect the actions of third parties, which wanted to cover up their illegal activities, or even wanted to crash the whole service, responsible for them. Should my suspicions in that direction harden, I'll go with the case to the police and prosecutor's office. For this I need but the cooperation between AWS and which is (as mentioned above) currently very difficult. Efforts of data recovery are of course still in progress.
