@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "FlexCoin"
+date:   2014-03-04 11:52:03 -0700
+categories: bitcoin breach
+link: http://archive.is/s9dUP
+---
+During the investigation into stolen funds we have determined that the extent of the theft was enabled by a flaw within the front-end. The attacker logged into the flexcoin front end from IP address 207.12.89.117 under a newly created username and deposited to address 1DSD3B3uS2wGZjZAwa2dqQ7M9v7Ajw2iLy. The coins were then left to sit until they had reached 6 confirmations. The attacker then successfully exploited a flaw in the code which allows transfers between flexcoin users. By sending thousands of simultaneous requests, the attacker was able to "move" coins from one user account to another until the sending account was overdrawn, before balances were updated.

@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "inputs.io"
+date:   2013-11-07 11:52:03 -0700
+categories: bitcoin breach
+link: http://archive.is/1eyKg
+---
+Two hacks totalling about 4100 BTC have left Inputs.io unable to pay all user balances. The attacker compromised the hosting account through compromising email accounts (some very old, and without phone numbers attached, so it was easy to reset). The attacker was able to bypass 2FA due to a flaw on the server host side. Database access was also obtained, however passwords are securely stored and are hashed on the client. Bitcoin backend code were transferred to 10;15Hd@mastersearching.com:mercedes49@69.85.88.31 (most likely another compromised server).

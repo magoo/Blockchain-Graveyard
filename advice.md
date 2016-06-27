@@ -8,7 +8,7 @@ This project was created to get your attention and point you to security resourc
 
 Do not allow an infatuation with cryptography to distract you from  known risks (like theft of key material or irrecoverable transactions).
 
- 1. You will know about a breach immediately. This site proves how often incidents _really_ happen.
+ 1. This site is evidence how often incidents _really_ happen.
  2. You cannot hide that that you had an incident without massive off-chain refunds.
  3. Most blockchain incidents have nothing to do with the blockchain at all.
 
@@ -16,7 +16,7 @@ Do not allow an infatuation with cryptography to distract you from  known risks 
 
 ### Starting Up Security
 
-I've written a lot on starting security at a new company from scratch, and have included other links here relevant to cryptocurrency.
+I've written a lot on starting from scratch, and have included other links here relevant to cryptocurrency.
 
 - [Cold Storage][CS] can reduce the impact of a security breach from 100% to a configurable percentage. After this, reduce your risk of a large hot wallet even further with cryptographic hardware or multisignature transactions.
 

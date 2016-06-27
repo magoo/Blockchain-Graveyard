@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Bitcoin7"
+date:   2011-10-07 11:52:03 -0700
+categories: bitcoin breach
+link: http://archive.is/zgCXT
+---
+On Oct 5th 2011 Bitcoin7.com became the victim of a number of pre-planned hacker attacks. While our investigation is still going, evidence reveals that the attacks originated from Russia and Eastern Europe.
+
+The attack itself took action not only against the bitcoin7.com server but also against other websites and servers which were part of the same network. Eventually the hackers managed to breach into the network which subsequently lead to a major breach into the bitcoin7.com website.
+
+As a result of the hacking, unknown individuals managed to gain full access to the site's main bitcoin depository/wallet and 2 of the 3 backup wallets.
+
+In addition the hackers gained access to our user database.

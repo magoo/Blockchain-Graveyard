@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "ExCoin"
+date:   2015-02-15 11:52:03 -0700
+categories: bitcoin breach
+link: http://archive.is/ZDYw3
+---
+February 6th and 10th, the user 'Ambiorx' was able to gain access to all the Bitcoins on the Exco.in exchange. As a result we no longer have the means necessary to continue operation and are deeply saddened to announce we will be shutting down operations this month. The trading engine has been disabled and Exco.in user accounts will remain active, with the exception of Ambiorx's account and those who may be affiliated.
