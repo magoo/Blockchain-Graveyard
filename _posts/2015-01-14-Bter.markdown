@@ -5,6 +5,7 @@ date:   2016-06-21 11:52:03 -0700
 categories: bitcoin breach
 link: http://www.coindesk.com/bter-nxt-bitcoin-exchange-hack/
 ---
+[Several hours ago][1] one of our hosting accounts was hacked and the hacker got 50m NXT from this server.
+It's totally our fault and we are trying our best to cover all the loss. However 50m nxt is huge for us, we cannot afford it at the moment.
 
-Media: http://www.coindesk.com/bter-bitcoin-stolen-cold-wallet-hack/
-Second Hack: http://www.coindesk.com/bter-nxt-bitcoin-exchange-hack/
+[1]: https://nxtforum.org/news-and-announcements/forgers-have-been-faced-with-a-choice/

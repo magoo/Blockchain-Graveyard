@@ -5,4 +5,4 @@ date:   2016-06-21 11:52:03 -0700
 categories: bitcoin breach
 link: https://blog.ethereum.org/2016/06/17/critical-update-re-dao-vulnerability/
 ---
-Post Mortem: https://blog.ethereum.org/2016/06/17/critical-update-re-dao-vulnerability/
+An attack has been found and exploited in the DAO, and the attacker is currently in the process of draining the ether contained in the DAO into a child DAO. The attack is a recursive calling vulnerability, where an attacker called the “split” function, and then calls the split function recursively inside of the split, thereby collecting ether many times over in a single transaction.

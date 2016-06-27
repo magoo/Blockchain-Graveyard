@@ -5,3 +5,4 @@ date:   2016-06-21 11:52:03 -0700
 categories: bitcoin breach
 link: http://cointelegraph.com/news/chinese-exchange-suffers-1000-btc-loss-in-uncertain-service-compromise
 ---
+We have been constantly monitoring the hacking activities on our servers and 3 months back then we took the precautionary step to migrate our servers to a highly secured cloud site. Unfortunately, that didn’t stop the incident from happening last night. In the last 24 hours, our security team worked around the clock to trace back the codes and processes. At this moment, we have a pretty good idea of exactly how they did it. This was not a generalized attack. The hacker’s strategy was precisely calculated and well targeted to compromise a certain weakness on our server.

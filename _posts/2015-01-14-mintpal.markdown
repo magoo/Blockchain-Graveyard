@@ -3,8 +3,6 @@ layout: post
 title:  "MintPal"
 date:   2016-06-21 11:52:03 -0700
 categories: bitcoin breach
-link: http://archive.is/A4I3D
+link: https://archive.is/6H9Xi
 ---
-Media: http://cointelegraph.com/news/mintpal-hacked-considerable-amount-of-vericoin-stolen
-Post Mortem: https://www.vericoin.info/downloads/Statement.pdf
-Archive: http://archive.is/A4I3D
+A few hours ago we were unfortunately the subject of a successful attack against the exchange. Our investigations have shown that whilst our security was breached, VeriCoin was the target. We would like to stress that VeriCoin and the VeriCoin network has not been in any way compromised. We have worked to secure the exchange and the withdraw process from any further attack.

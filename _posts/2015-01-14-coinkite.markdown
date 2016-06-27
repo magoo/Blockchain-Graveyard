@@ -3,6 +3,6 @@ layout: post
 title:  "CoinKite"
 date:   2016-06-21 11:52:03 -0700
 categories: bitcoin breach
+link: http://blog.coinkite.com/post/143941980611/security-notice
 ---
-Post Mortem: https://www.coinwallet.co/closed.php
-Mirror: http://bitcoinx.io/news/articles/coinwallet-co-bitcoin-wallet-hacked-and-is-closing-down/
+While we were turning off servers, disabling firewalls and cleaning up backup systems today, we may have leaked a copy of our database. Although passwords into Coinkite.com are not useful anymore, you can rest assured that passwords were salted and SHA256 hashed with 131,072 rounds. If you used the same password on other sites, as a precaution, you may want to consider changing those other accounts. It’s possible you will see spam to your related email addresses.

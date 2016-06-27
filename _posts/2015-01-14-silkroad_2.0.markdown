@@ -5,4 +5,4 @@ date:   2016-06-21 11:52:03 -0700
 categories: bitcoin breach
 link: http://www.forbes.com/sites/andygreenberg/2014/02/13/silk-road-2-0-hacked-using-bitcoin-bug-all-its-funds-stolen/#78960a6874a5
 ---
-Media: http://www.forbes.com/sites/andygreenberg/2014/02/13/silk-road-2-0-hacked-using-bitcoin-bug-all-its-funds-stolen/#78960a6874a5
+Our initial investigations indicate that a vendor exploited a recently discovered vulnerability in the Bitcoin protocol known as “transaction malleability” to repeatedly withdraw coins from our system until it was completely empty.

@@ -5,8 +5,4 @@ date:   2016-06-21 11:52:03 -0700
 categories: bitcoin breach
 link: https://www.bitfinex.com/posts/37
 ---
-
-Post Mortem: https://www.bitfinex.com/posts/37
-Post Mortem: https://www.bitfinex.com/posts/35
-Media: http://www.coindesk.com/bitfinex-warns-customers-to-halt-deposits-after-suspected-hack/
-Mirror: http://archive.is/xqu4F
+Dear Customer although we keep over 99.5% of users' BTC deposits in secure multisig wallets, the small remaining amount in coins in our hot wallet are theoretically vulnerable to attack. We believe that our hot wallet keys might have been compromised and ask that all of our customer cease depositing cryptocurrency to old deposits addresses. We are in the process of creating a new hot wallet and will advise within the next few hours. Although this incident is unfortunate, its scale is small and will be fully absorbed by the company. Thanks a lot for your patience and comprehension. Bitfinex Team"

@@ -5,3 +5,4 @@ date:   2016-06-21 11:52:03 -0700
 categories: bitcoin breach
 link: http://archive.is/TtdEI
 ---
+Most of what was recoverable from our servers and backups has now been restored and we are currently working on retrieving more information to get a better understanding of what exactly happened, and most of all what can be done to track down who did it.
