@@ -3,12 +3,16 @@ layout: default
 ---
 
 <div class="home">
-  <!-- <h1>About</h1> -->
-  These cryptocurrency institutions have suffered massive intrusions. Nearly all closed down afterward.
-</br>
-</br>
-Don't want to be on this list? Start your bitcoin company <a href="https://magoo.github.io/Blockchain-Graveyard/advice/">with security in mind</a>.
+  These cryptocurrency institutions have suffered massive intrusions. Nearly all closed down afterward. These could have been prevented:
 
+<ul class="intro-ul">
+  <li>Lack of cold storage</li>
+  <li>Social Engineering / Credential Re-Use</li>
+  <li>Simple intrusions on Cloud Hosted Infrastructure</li>
+  <li>Application vulnerability allowing malicious transactions</li>
+</ul>
+
+Don't want to be on this list? Start your bitcoin company <a href="https://magoo.github.io/Blockchain-Graveyard/advice/">with security in mind</a>.
 
   <ul class="post-list">
     {% for post in site.posts %}
@@ -16,7 +20,9 @@ Don't want to be on this list? Start your bitcoin company <a href="https://magoo
         <h2>
           <a class="post-link" href="{{ post.link }}">{{ post.title }}</a>
         </h2>
-        {{post.content}}
+        <blockquote>
+          {{post.content}}
+        </blockquote>
         <div>
         </div>
       </li>

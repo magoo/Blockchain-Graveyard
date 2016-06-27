@@ -1,16 +1,16 @@
 ---
 layout: page
-title: Avoiding the Graveyard
+title: Starting a BTC/ETH company?
 permalink: /advice/
 ---
 
-Blockchain projects of any kind risk massive, existential security breaches. More so than _any other industry_. Do not allow an infatuation with cryptography to distract you from  known risks (like theft of key material or irrecoverable transactions).
+This project was created to get your attention and point you to security resources.
 
- Blockchain companies are unique for a couple reasons:
+Do not allow an infatuation with cryptography to distract you from  known risks (like theft of key material or irrecoverable transactions).
 
- 1. They know about their incidents almost immediately (missing funds)
- 2. They cannot hide that they had an incident (without massive out of pocket refunds)
- 3. The incident is entirely visible (via a blockchain)
+ 1. You will know about a breach immediately. This site proves how often incidents _really_ happen.
+ 2. You cannot hide that that you had an incident without massive off-chain refunds.
+ 3. Most blockchain incidents have nothing to do with the blockchain at all. 
 
  If this seems intimidating, here's some advice!
 
