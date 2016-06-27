@@ -10,29 +10,32 @@ Do not allow an infatuation with cryptography to distract you from  known risks 
 
  1. You will know about a breach immediately. This site proves how often incidents _really_ happen.
  2. You cannot hide that that you had an incident without massive off-chain refunds.
- 3. Most blockchain incidents have nothing to do with the blockchain at all. 
+ 3. Most blockchain incidents have nothing to do with the blockchain at all.
 
  If this seems intimidating, here's some advice!
 
-### Security
+### Starting Up Security
 
-[Cold Storage][CS] can reduce the impact of a security breach from 100% to a configurable percentage. After this, reduce your risk of a large hot wallet even further with cryptographic hardware or multisignature transactions.
+I've written a lot on starting security at a new company from scratch, and have included other links here relevant to cryptocurrency.
 
-[Starting up Security][SUS] is advice for company wide security.
+- [Cold Storage][CS] can reduce the impact of a security breach from 100% to a configurable percentage. After this, reduce your risk of a large hot wallet even further with cryptographic hardware or multisignature transactions.
 
-[Product Security][SUSSPS] and [Modern Product Security][MPS] discuss the development of a secure product.
+- [Starting up Security][SUS] is advice for company wide security.
 
-[Investigating Account Takeover][SUSSATO] discusses the massive amounts of phishing, malware, and other attacks that will directly target and steal from your customers. [Preventing Account Takeover][SUSSPAT] will discuss the automated ways you can prevent takeover of your customer accounts.
+- [Product Security][SUSSPS] and [Modern Product Security][MPS] discuss the development of a secure product.
 
-[Bounty Launch Lessons][SUSBB] and [Bug Bounty 5 Years In][BBFYI] will help you start a bug bounty program from scratch.
+- [Investigating Account Takeover][SUSSATO] discusses the massive amounts of phishing, malware, and other attacks that will directly target and steal from your customers.
+- [Preventing Account Takeover][SUSSPAT] will discuss the automated ways you can prevent takeover of your customer accounts.
 
-[Red Teams][SUSRT] will help you simulate a worst case incident scenario before it happens.
+- [Bounty Launch Lessons][SUSBB] and [Bug Bounty 5 Years In][BBFYI] will help you start a bug bounty program from scratch.
 
-[Scott Roberts from Github][IRDEAD] writes about hunting for adversaries on your infrastructure. [Ryan Huber from Slack][DSA] discusses approaches to alerting.
+- [Red Teams][SUSRT] will help you simulate a worst case incident scenario before it happens.
 
-[Security Breach 101][SUSSSB] will help you understand the complex coordination of an incident in progress.
+- [Scott Roberts from Github][IRDEAD] writes about hunting for adversaries on your infrastructure. [Ryan Huber from Slack][DSA] discusses approaches to alerting.
 
-[Coinbase's security][CBS] should also act as a reference model for your own security program.
+- [Security Breach 101][SUSSSB] will help you understand the complex coordination of an incident in progress.
+
+- [Coinbase's security][CBS] should also act as a reference model for your own security program.
 
 ### About
 
