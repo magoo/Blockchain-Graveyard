@@ -1,6 +1,8 @@
 # Blockchain-Graveyard
 Publicly known blockchain incidents that include details of the breach or victim statements.
 
+[https://magoo.github.io/Blockchain-Graveyard/][gh]
+
 ## Contributing
 This site consists of two main sections: The _Graveyard_ is an enumeration of large incidents that we can see in one place. The advice section is for beginners advice to the enormous security subject matter required to lock down a blockchain company.
 
@@ -18,3 +20,5 @@ Link bait, opinion pieces, or victimized customer rants not accepted. Please add
 
 ### Advice
 The advice section will be pretty heavily moderated. It's designed to be extremely introductory to avoid overwhelming information, and fairly broad.
+
+[gh]: https://magoo.github.io/Blockchain-Graveyard/
