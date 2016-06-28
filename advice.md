@@ -7,13 +7,13 @@ permalink: /advice/
 This project was created to get your attention and point you to security resources.
 
 
-1. Protect key material
-2. Be defensive against application vulnerability
-3. Protect all authentication to your cloud infrastructure (2Fac, Strong + Unique Passwords)
-4. Limit the exposure of funds with cold storage, HSMs, and Multi-Signature transactions
-5. Design for collusion whenever possible
+1. Protect key material. Your servers will be accessed.
+2. Be defensive against application vulnerability. You will have bugs.
+3. Protect all authentication to your cloud infrastructure (2Fac, Strong + Unique Passwords). Your employees will re-use passwords and bad guys will get them.
+4. Limit the exposure of funds with cold storage, HSMs, and Multi-Signature transactions.
+5. Design for collusion whenever possible for sensitive or high value operations.
 
- If this seems intimidating, here's some advice!
+If this seems intimidating, here's some advice!
 
 ### Bitcoin Specific Advice
 
