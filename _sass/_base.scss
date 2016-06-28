@@ -94,6 +94,7 @@ h1, h2, h3, h4, h5, h6 {
 a {
     color: $brand-color;
     text-decoration: none;
+    font-weight: $base-font-weight + 100;
 
     &:visited {
         color: darken($brand-color, 15%);
@@ -112,7 +113,7 @@ a {
  */
 blockquote {
     color: $grey-color;
-    border-left: 4px solid $grey-color-light;
+    border-left: 4px solid lighten($grey-color-light, 40%);
     padding-left: $spacing-unit / 2;
     font-size: 18px;
     letter-spacing: -1px;

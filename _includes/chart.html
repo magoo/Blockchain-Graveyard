@@ -1,10 +1,10 @@
-<canvas id="myChart" width="400" height="400"></canvas>
+<canvas id="myChart" width="400" height="100"></canvas>
 <script>
 var ctx = document.getElementById("myChart");
 var myChart = new Chart(ctx, {
     type: 'bar',
     data: {
-        labels: ["Infrastructure Vuln", "Application Vuln", "Insider", "Cloud Infra Account Takeover", "Unknown", "Protocol"],
+        labels: ["Infra Intrusion", "App Vuln", "Insider", "Cloud  Acct Takeover", "Unknown", "Protocol"],
         datasets: [{
             label: 'Reason for Breach',
             data: [13, 8, 2, 7, 7, 2],

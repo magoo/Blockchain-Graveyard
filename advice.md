@@ -4,18 +4,21 @@ title: Starting a BTC/ETH company?
 permalink: /advice/
 ---
 
-This project was created to get your attention and point you to security resources.
+This list of security incidents was created to get your attention and point you to security resources.
 
+These will be your primary security concerns:
 
 1. Protect key material. Your servers will be accessed.
 2. Be defensive against application vulnerability. You will have bugs.
 3. Protect all authentication to your cloud infrastructure (2Fac, Strong + Unique Passwords). Your employees will re-use passwords and bad guys will get them.
-4. Limit the exposure of funds with cold storage, HSMs, and Multi-Signature transactions.
-5. Design for collusion whenever possible for sensitive or high value operations.
+4. Limit the exposure of funds with cold storage, HSMs, and Multi-Signature transactions. This is because intrusions will happen anyway.
+5. Design for collusion whenever possible for sensitive or high value operations. Don't allow a lone insider too much influence.
 
-If this seems intimidating, here's some advice!
+If this seems intimidating, here's some further advice!
 
 ### Bitcoin Specific Advice
+
+These are practices that are unique to blockchain companies.
 
 - [Cold Storage][CS] can reduce the impact of a security breach from 100% to a configurable percentage. After this, reduce your risk of a large hot wallet even further with cryptographic hardware or multisignature transactions.
 - After reducing the amount of funds you'd store in a "Hot Wallet", use multisignature transactions to secure a hot wallet even further.
@@ -32,7 +35,7 @@ These are practices that are common at any company, not just a blockchain compan
 - [Investigating Account Takeover][SUSSATO] discusses the massive amounts of phishing, malware, and other attacks that will directly target and steal from your customers.
 - [Preventing Account Takeover][SUSSPAT] will discuss the automated ways you can prevent takeover of your customer accounts.
 
-- [Bounty Launch Lessons][SUSBB] and [Bug Bounty 5 Years In][BBFYI] will help you start a bug bounty program from scratch.
+- [Bounty Launch Lessons][SUSBB] and [Bug Bounty 5 Years In][BBFYI] will help you start a bug bounty program from scratch. You want your bugs to look like [disclosures][disclosure] instead of complete and total failures.
 
 - [Red Teams][SUSRT] will help you simulate a worst case incident scenario before it happens.
 
@@ -44,7 +47,7 @@ These are practices that are common at any company, not just a blockchain compan
 
 ### About
 
-This started as `bitcoin_breaches.txt` on my laptop. After 30 or so entries, I figured this would help bring [Starting Up Security][SUSS] to the BTC / ETH community. A much more broad list exists [here at bitcointalk][bitcointalk] that includes scams and fraud.
+This started as `bitcoin_breaches.txt` on my laptop and figured it would pair well with [Starting Up Security][SUSS] for the BTC / ETH community. A much more broad list exists [here at bitcointalk][bitcointalk] that includes scams and fraud.
 
 Feel free to suggest additions to the graveyard or advice section in pull requests.
 
@@ -64,3 +67,4 @@ Feel free to suggest additions to the graveyard or advice section in pull reques
 [CBS]: https://medium.com/the-coinbase-blog/how-coinbase-builds-secure-infrastructure-to-store-bitcoin-in-the-cloud-30a6504e40ba#.yec4b2bbv
 [CS]: https://en.bitcoin.it/wiki/Cold_storage
 [HSM]: https://gemini.com/blog/your-bitcoin-wallet-may-be-at-risk-safenet-hsm-key-extraction-vulnerability/
+[disclosure]: https://hackerone.com/reports/144526

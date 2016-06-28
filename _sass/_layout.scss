@@ -109,6 +109,7 @@
 }
 
 .footer-heading {
+    color: $grey-color-dark;
     margin-bottom: $spacing-unit / 2;
     text-transform: uppercase;
     font-size: 1.4rem;
@@ -188,7 +189,6 @@
 .post-list {
     margin-left: 0;
     margin-top: $spacing-unit;
-    border-top: 1px solid #eee;
     list-style: none;
     padding-top: $spacing-unit;
 
@@ -219,9 +219,10 @@ margin-bottom: 20px;
 }
 
 .section {
-
   margin-top: 1em;
+  padding-bottom: 2em;
   margin-bottom: 1em;
+  border-bottom: 1px solid #eee;
 
 }
 
@@ -279,4 +280,26 @@ margin-bottom: 20px;
             font-size: 18px;
         }
     }
+}
+
+#container {
+  overflow: hidden;
+}
+
+#left-column, #right-column {
+
+
+
+}
+
+#left-column {
+  float: left;;
+  width: 400px;
+  margin-right: 2em;
+}
+
+#right-column {
+  float: left;
+  width: 300px;
+
 }

@@ -5,25 +5,35 @@ layout: default
 
 
 <div class="home">
-  <div class="section">
-    These cryptocurrency institutions have suffered intrusions resulting in stolen financials, or shutdown of the product. Nearly all closed down afterward. These could have been prevented:
+  <div class="section" id="container">
+    <div id="left-column">
+    These cryptocurrency institutions have suffered intrusions resulting in stolen financials, or shutdown of the product. Nearly all closed down afterward.
+    <br />
+    <br />
+    Nearly every attack could have been prevented:
 
-    <ul class="intro-ul">
-      <li>Lack of cold storage</li>
-      <li>Social Engineering / Credential Re-Use</li>
-      <li>Simple intrusions on Cloud Hosted Infrastructure</li>
-      <li>Application vulnerability allowing malicious transactions</li>
-    </ul>
+      <ul class="intro-ul">
+        <li>Social Engineering / Credential Reuse</li>
+        <li>Account Takeover of Cloud Hosting</li>
+        <li>Application Vulnerability</li>
+      </ul>
 
-    Below you'll find as close to a root cause as it publicly available, with a link to more information in the breach.
+
+    Each root cause is below, with a link to more information in the breach.
+    </div>
+
+    <div id="right-column">
+      <!--<img src="logo.png" /> -->
+    </div>
   </div>
 
   <div class="section">
-    <h1 class="section-header">Estimates</h1>
-    The data below is roughly gleaned from publicly available data about each breach.
+    <h1 class="section-header">Root Cause Estimates</h1>
+    The data below is roughly gleaned from publicly available data about <b>38</b> incidents.
 
     {% include chart.html %}
   </div>
+
   <div class= "section">
     <ul class="post-list">
       <h1 class="section-header">Incident Briefs</h1>
@@ -35,12 +45,15 @@ layout: default
           </h2>
 
             {{post.content}}
-          
+
           <div>
           </div>
         </li>
       {% endfor %}
     </ul>
     </div>
+
+    <h1>Update This</h1>
+    Submit a pull request at the GitHub link below if a similar breach has occurred.
 
 </div>
