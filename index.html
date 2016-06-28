@@ -2,31 +2,45 @@
 layout: default
 ---
 
+
+
 <div class="home">
-  These cryptocurrency institutions have suffered intrusions resulting in stolen financials, or shutdown of the product. Nearly all closed down afterward. These could have been prevented:
+  <div class="section">
+    These cryptocurrency institutions have suffered intrusions resulting in stolen financials, or shutdown of the product. Nearly all closed down afterward. These could have been prevented:
 
-<ul class="intro-ul">
-  <li>Lack of cold storage</li>
-  <li>Social Engineering / Credential Re-Use</li>
-  <li>Simple intrusions on Cloud Hosted Infrastructure</li>
-  <li>Application vulnerability allowing malicious transactions</li>
-</ul>
+    <ul class="intro-ul">
+      <li>Lack of cold storage</li>
+      <li>Social Engineering / Credential Re-Use</li>
+      <li>Simple intrusions on Cloud Hosted Infrastructure</li>
+      <li>Application vulnerability allowing malicious transactions</li>
+    </ul>
 
-Below you'll find as close to a root cause as it publicly available, with a link to more information in the breach.
+    Below you'll find as close to a root cause as it publicly available, with a link to more information in the breach.
+  </div>
 
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <h2>
-          <a class="post-link" href="{{ post.link }}">{{ post.title }}</a>
-        </h2>
-        <blockquote>
-          {{post.content}}
-        </blockquote>
-        <div>
-        </div>
-      </li>
-    {% endfor %}
-  </ul>
+  <div class="section">
+    <h1 class="section-header">Estimates</h1>
+    The data below is roughly gleaned from publicly available data about each breach.
+
+    {% include chart.html %}
+  </div>
+  <div class= "section">
+    <ul class="post-list">
+      <h1 class="section-header">Incident Briefs</h1>
+
+      {% for post in site.posts %}
+        <li>
+          <h2 class="post-link">
+            <a  href="{{ post.link }}">{{ post.title }}</a>
+          </h2>
+
+            {{post.content}}
+          
+          <div>
+          </div>
+        </li>
+      {% endfor %}
+    </ul>
+    </div>
 
 </div>

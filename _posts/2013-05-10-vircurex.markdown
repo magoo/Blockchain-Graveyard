@@ -5,6 +5,7 @@ date:   2013-05-10 11:52:03 -0700
 categories: bitcoin breach
 link: https://vircurex.com/Reports/2013-05.pdf
 ---
-The attacker has acquired login credentials to our VPS control account with our hosting service provider and has then asked for the root password reset of all servers which – unfortunately – the service provider has then done and posted the credentials in their helpdesk ticket, rather than the standard process of sending it to our email address (which has 2FA protection), also the security setup of allowing only our IP range to login to the management console was not working. It was
-an additional security feature the provider offered but was obviously circumvented by the attacker. As a result out of this incident we have moved all our services to a new provider who offers 2 factor authentication for all
+Cloud infrastructure compromise. After an initial credential breach, the attacker escalated access through social engineering. The victim blames the hosting provider for violating their own procedure for password resets. 
+
+> The attacker has acquired login credentials to our VPS control account with our hosting service provider and has then asked for the root password reset of all servers which – unfortunately – the service provider has then done and posted the credentials in their helpdesk ticket, rather than the standard process of sending it to our email address (which has 2FA protection), also the security setup of allowing only our IP range to login to the management console was not working. It was an additional security feature the provider offered but was obviously circumvented by the attacker. As a result out of this incident we have moved all our services to a new provider who offers 2 factor authentication for all
 logins as well as other verification processes that we hope will make similar attempts impossible in the future

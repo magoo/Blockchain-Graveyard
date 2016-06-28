@@ -5,4 +5,6 @@ date:   2012-10-05 11:52:03 -0700
 categories: bitcoin breach
 link: https://bitcointalk.org/index.php?topic=105818.0
 ---
-Last night, a few of our servers were compromised. As a result, the attacker gained accesses to an unencrypted backup of the wallet keys (the actual keys live in an encrypted area). Using these keys they were able to transfer the coins. This attack took the vast majority of the coins BitFloor was holding on hand. As a result, I have paused all exchange operations. Even tho only a small majority of the coins are ever in use at any time, I felt it inappropriate to continue operating not having the capability to cover all account balances for BTC at the time.
+Attackers likely gained access through a cloud infrastructure provider and accessed a server with unencrypted hot wallet.
+
+> Last night, a few of our servers were compromised. As a result, the attacker gained accesses to an unencrypted backup of the wallet keys (the actual keys live in an encrypted area). Using these keys they were able to transfer the coins. This attack took the vast majority of the coins BitFloor was holding on hand. As a result, I have paused all exchange operations. Even tho only a small majority of the coins are ever in use at any time, I felt it inappropriate to continue operating not having the capability to cover all account balances for BTC at the time.

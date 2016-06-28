@@ -5,4 +5,6 @@ date:   2016-01-15 11:52:03 -0700
 categories: bitcoin breach
 link: http://archive.is/FfECg
 ---
-After a period of time of investigation it was found that the developer of Lucky7Coin had placed an IRC backdoor into the code of wallet, which allowed it to act as a sort of a Trojan, or command and control unit.   This Trojan had likely been there for months before it was able to collect enough information to perform the attack.
+Maliciously placed Application vulnerability after a dependency (Lucky7Coin) was backdoored by a malicious developer, and abused for months to pull off an attack.
+
+> After a period of time of investigation it was found that the developer of Lucky7Coin had placed an IRC backdoor into the code of wallet, which allowed it to act as a sort of a Trojan, or command and control unit. This Trojan had likely been there for months before it was able to collect enough information to perform the attack.

@@ -5,4 +5,8 @@ date:   2015-11-25 11:52:03 -0700
 categories: bitcoin breach
 link: http://archive.is/TtdEI
 ---
-Most of what was recoverable from our servers and backups has now been restored and we are currently working on retrieving more information to get a better understanding of what exactly happened, and most of all what can be done to track down who did it.
+Very little information, other than that wallets were compromised.
+
+>BIPS has been a target of a coordinated attack and subsequent security breached. Several consumer wallets have been compromised and BIPS will be contacting the affected users.
+
+> Most of what was recoverable from our servers and backups has now been restored and we are currently working on retrieving more information to get a better understanding of what exactly happened, and most of all what can be done to track down who did it.

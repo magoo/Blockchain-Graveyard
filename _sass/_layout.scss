@@ -209,15 +209,29 @@ margin-bottom: 20px;
 }
 
 .post-link {
-    display: block;
-    font-size: 12;
+  h2 {
     text-transform: uppercase;
     letter-spacing: .4rem;
     font-weight: 600;
+    font-size: 20px;
+  }
 
 }
 
+.section {
 
+  margin-top: 1em;
+  margin-bottom: 1em;
+
+}
+
+.section-header {
+  font-size: 12;
+  text-transform: uppercase;
+  letter-spacing: .4rem;
+  font-weight:300;
+
+}
 
 /**
  * Posts
@@ -240,10 +254,13 @@ margin-bottom: 20px;
     margin-bottom: $spacing-unit;
 
     h2 {
-        font-size: 32px;
+        font-size: 60px;
+        display: block;
+
 
         @include media-query($on-laptop) {
             font-size: 28px;
+
         }
     }
 

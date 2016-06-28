@@ -5,4 +5,6 @@ date:   2014-03-19 11:52:03 -0700
 categories: bitcoin breach
 link: https://bitcointalk.org/index.php?topic=265277.msg5769484#msg5769484
 ---
-Long story short: yes, our wallet server got hacked and all funds were withdrawn.
+Not enough information, other than a infrastructure intrusion that breached the wallet.
+
+>Long story short: yes, our wallet server got hacked and all funds were withdrawn.

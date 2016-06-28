@@ -5,4 +5,6 @@ date:   2014-07-13 11:52:03 -0700
 categories: bitcoin breach
 link: https://archive.is/6H9Xi
 ---
-A few hours ago we were unfortunately the subject of a successful attack against the exchange. Our investigations have shown that whilst our security was breached, VeriCoin was the target. We would like to stress that VeriCoin and the VeriCoin network has not been in any way compromised. We have worked to secure the exchange and the withdraw process from any further attack.
+Little information provided.
+
+> A few hours ago we were unfortunately the subject of a successful attack against the exchange. Our investigations have shown that whilst our security was breached, VeriCoin was the target. We would like to stress that VeriCoin and the VeriCoin network has not been in any way compromised. We have worked to secure the exchange and the withdraw process from any further attack.

@@ -5,4 +5,6 @@ date:   2015-07-01 11:52:03 -0700
 categories: Breach
 link: https://www.bitstamp.net/article/relaunch-faq/
 ---
-Bitstamp experienced a security breach on Jan. 4th. Security of our customers’ bitcoin and information is a top priority for us, and as part of our stringent security protocol we temporarily suspended our services on January 5th. All bitcoin held with us prior to the temporary suspension of services starting on January 5 (at 9 a.m. UTC) are completely safe and will be honored in full. We are currently investigating and will reimburse all legitimate deposits to old wallet addresses affected by the breach after the suspension.
+Not much data available.
+
+> Bitstamp experienced a security breach on Jan. 4th. Security of our customers’ bitcoin and information is a top priority for us, and as part of our stringent security protocol we temporarily suspended our services on January 5th. All bitcoin held with us prior to the temporary suspension of services starting on January 5 (at 9 a.m. UTC) are completely safe and will be honored in full. We are currently investigating and will reimburse all legitimate deposits to old wallet addresses affected by the breach after the suspension.

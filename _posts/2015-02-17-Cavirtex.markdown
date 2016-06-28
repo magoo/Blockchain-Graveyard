@@ -5,6 +5,8 @@ date:   2015-02-17 11:52:03 -0700
 categories: bitcoin breach
 link: http://archive.is/F7l43
 ---
-Effective immediately, CAVIRTEX intends to cease carrying on an active Bitcoin business and will be winding down its operations in an orderly manner. As a result, effective immediately, no new deposits will be accepted by CAVIRTEX. Trading on CAVIRTEX will be halted effective March 20, 2015. Effective March 25th, 2015, no withdrawals will be processed. CAVIRTEX will communicate with any account holders that continue to hold balances after March 25, 2015.
+Not much detail, other than a database breach and it seems all customers were paid back. 
 
-We have maintained 100% reserves. CAVIRTEX is solvent and remains in a position to accommodate all customer withdrawal requests received prior to March 25, 2015. However, On February 15, 2015 we found reason to believe that an older version of our database, including 2FA secrets and hashed passwords, may have been compromised. This database did not include identification documents.
+> Effective immediately, CAVIRTEX intends to cease carrying on an active Bitcoin business and will be winding down its operations in an orderly manner. As a result, effective immediately, no new deposits will be accepted by CAVIRTEX. Trading on CAVIRTEX will be halted effective March 20, 2015. Effective March 25th, 2015, no withdrawals will be processed. CAVIRTEX will communicate with any account holders that continue to hold balances after March 25, 2015.
+
+> We have maintained 100% reserves. CAVIRTEX is solvent and remains in a position to accommodate all customer withdrawal requests received prior to March 25, 2015. However, On February 15, 2015 we found reason to believe that an older version of our database, including 2FA secrets and hashed passwords, may have been compromised. This database did not include identification documents.

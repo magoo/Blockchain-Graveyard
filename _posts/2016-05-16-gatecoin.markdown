@@ -5,4 +5,6 @@ date:   2016-05-16 11:52:03 -0700
 categories: bitcoin breach
 link: http://archive.is/rcnG4
 ---
-We have previously communicated the fact that most clients’ crypto-asset funds are stored in multi-signature cold wallets. However, the malicious external party involved in this breach, managed to alter our system so that ETH and BTC deposit transfers by-passed the multi-sig cold storage and went directly to the hot wallet during the breach period. This means that losses of ETH funds exceed the 5% limit that we imposed on our hot wallets.
+Very interesting breach that attempted to leverage Cold Storage to limit the impact of a breach. It is just as important to protect the deposits into cold storage as much as the cold storage itself. If cold storage deposit is modified, it's as if you don't have cold storage at all. 
+
+> We have previously communicated the fact that most clients’ crypto-asset funds are stored in multi-signature cold wallets. However, the malicious external party involved in this breach, managed to alter our system so that ETH and BTC deposit transfers by-passed the multi-sig cold storage and went directly to the hot wallet during the breach period. This means that losses of ETH funds exceed the 5% limit that we imposed on our hot wallets.

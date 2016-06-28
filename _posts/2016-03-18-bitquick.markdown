@@ -5,4 +5,6 @@ date:   2016-03-18 11:52:03 -0700
 categories: bitcoin breach
 link: https://www.bitquick.co/blog/bitquick-details
 ---
-On Monday, March 14, 2016, our server fell victim to an attack that gave the attacker unauthorized administrative access. The breach was immediately noticed, and the server was shutdown to prevent any further damage. We are still performing a formal investigation to determine the attack vector, and specifically what information was obtained from the server. Due to additional security mechanisms in place, no funds were taken, and all ID’s (driver’s licenses, passports, etc.) and emails remain secured. Sellers were emailed withdrawal instructions Tuesday evening. All outstanding orders and withdrawals have been processed. Only 3% of all funds remain unclaimed.
+Not much detail provided, and appears damage was fairly limited for unknown reasons.
+
+> On Monday, March 14, 2016, our server fell victim to an attack that gave the attacker unauthorized administrative access. The breach was immediately noticed, and the server was shutdown to prevent any further damage. We are still performing a formal investigation to determine the attack vector, and specifically what information was obtained from the server. Due to additional security mechanisms in place, no funds were taken, and all ID’s (driver’s licenses, passports, etc.) and emails remain secured. Sellers were emailed withdrawal instructions Tuesday evening. All outstanding orders and withdrawals have been processed. Only 3% of all funds remain unclaimed.
