@@ -6,19 +6,24 @@ permalink: /advice/
 
 This project was created to get your attention and point you to security resources.
 
-Do not allow an infatuation with cryptography to distract you from  known risks (like theft of key material or irrecoverable transactions).
 
- 1. This site is evidence how often incidents _really_ happen.
- 2. You cannot hide that that you had an incident without massive off-chain refunds.
- 3. Most blockchain incidents have nothing to do with the blockchain at all.
+1. Protect key material
+2. Be defensive against application vulnerability
+3. Protect all authentication to your cloud infrastructure (2Fac, Strong + Unique Passwords)
+4. Limit the exposure of funds with cold storage, HSMs, and Multi-Signature transactions
+5. Design for collusion whenever possible
 
  If this seems intimidating, here's some advice!
 
-### Starting Up Security
-
-I've written a lot on starting from scratch, and have included other links here relevant to cryptocurrency.
+### Bitcoin Specific Advice
 
 - [Cold Storage][CS] can reduce the impact of a security breach from 100% to a configurable percentage. After this, reduce your risk of a large hot wallet even further with cryptographic hardware or multisignature transactions.
+- After reducing the amount of funds you'd store in a "Hot Wallet", use multisignature transactions to secure a hot wallet even further.
+- Use an [HSM][HSM] that will protect key material and make it extremely hard to make a transaction that cannot be audited. It will also defend greatly against insider threats.
+
+### General Security
+
+These are practices that are common at any company, not just a blockchain company.
 
 - [Starting up Security][SUS] is advice for company wide security.
 
@@ -58,3 +63,4 @@ Feel free to suggest additions to the graveyard or advice section in pull reques
 [DSA]: https://slack.engineering/distributed-security-alerting-c89414c992d6#.dkuulzsyr
 [CBS]: https://medium.com/the-coinbase-blog/how-coinbase-builds-secure-infrastructure-to-store-bitcoin-in-the-cloud-30a6504e40ba#.yec4b2bbv
 [CS]: https://en.bitcoin.it/wiki/Cold_storage
+[HSM]: https://gemini.com/blog/your-bitcoin-wallet-may-be-at-risk-safenet-hsm-key-extraction-vulnerability/
