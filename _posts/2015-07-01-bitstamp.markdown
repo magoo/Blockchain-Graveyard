@@ -5,6 +5,8 @@ date:   2015-07-01 11:52:03 -0700
 categories: Breach
 link: https://www.bitstamp.net/article/relaunch-faq/
 ---
-Not much data available.
+If a [leaked incident report][leak] is to be believed, a VBA script embedded in a Word document was delivered via social engineering tactics over Skype to several employees. This malware was detonated on a system administrator's machine who also had access to wallet.dat files and wallet passwords. 18,866 BTC lost as deposits were stolen over the course of several days. 
 
 > Bitstamp experienced a security breach on Jan. 4th. Security of our customers’ bitcoin and information is a top priority for us, and as part of our stringent security protocol we temporarily suspended our services on January 5th. All bitcoin held with us prior to the temporary suspension of services starting on January 5 (at 9 a.m. UTC) are completely safe and will be honored in full. We are currently investigating and will reimburse all legitimate deposits to old wallet addresses affected by the breach after the suspension.
+
+[leak]: http://www.coindesk.com/unconfirmed-report-5-million-bitstamp-bitcoin-exchange/
