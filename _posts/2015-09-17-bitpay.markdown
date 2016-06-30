@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "BitPay"
+date:   2015-09-17 11:52:03 -0700
+categories: infrastructure
+link: http://cointelegraph.com/news/bitpay-hacked-for-over-18-million-in-bitcoins
+---
+The attacker spearphished the CFO (with what looks to be a compromised email / server of someone else, this is unclear) and successfully acquired his credentials with a phishing page.
+
+These credentials were then used to communicate with the CEO and request multiple large transfers to the amount of  $1.8 Million USD. A customer pointed out the fraud.
+
+Below is the root cause as pointed out by court documents.
+
+> On or about December 11, 2014, Bryan Krohn, the CFO of Bitpay, received an email from someone purporting to be David Bailey of yBitcoin (a digital currency publication) requesting Mr. Krohn comment on a bitcoin industry document.
+
+> Unbeknownst to Mr. Krohn, or anyone at Bitpay, Mr. Bailey’s computer had been illegally entered (i.e. “hacked”).
+
+> The phony email sent by the person who hacked Mr. Bailey’s computer, directed Mr. Krohn to a website controlled by the hacker wherein Mr. Krohn provided the credentials for his Bitpay corporate email account.
+
+> After capturing Mr. Krohn’s Bitpay credentials, the hacker used that information to hack into Mr. Krohn’s Bitpay email account to fraudulently cause a transfer of bitcoin.
+
+> The hacker illegally hacked Mr. Krohn’s computer so he could use his or her computer to send false authorizations to Bitpay on December 11 and 12, 2014.
+
+> It is this hacking which fraudulently caused the transfers of bitcoin and therefore the loss to Bitpay of bitcoin valued at $1,850,000 (the “Loss”).
+
+> Bitpay cannot recapture the lost bitcoin.
