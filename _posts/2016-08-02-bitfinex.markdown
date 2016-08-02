@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Bitfinex"
+date:   2016-08-02 11:52:03 -0700
+categories: infrastructure
+link: http://archive.is/CnjAn
+---
+Will update when more details are known.
+
+>We are investigating the breach to determine what happened, but we know that some of our users have had their bitcoins stolen. We are undertaking a review to determine which users have been affected by the breach. While we conduct this initial investigation and secure our environment, bitfinex.com will be taken down and the maintenance page will be left up.
