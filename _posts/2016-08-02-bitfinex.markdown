@@ -5,6 +5,22 @@ date:   2016-08-02 11:52:03 -0700
 categories: infrastructure
 link: http://archive.is/CnjAn
 ---
-Will update when more details are known.
+This is Bitfinex's second appearance in the graveyard.
+
+All below information is inferred or directly from [reddit comments of Bitfinex employees][1]. Employees repeatedly offer insight in comments that an internal breach allowed an attacker to interact with their BitGo implementation, and that BitGo's security was not compromised.
+
+Bitfinex suggests in these comments that several withdrawal limits existed per user and system wide, and employees are unsure how they were bypassed.
+
+BitGo is a multisignature solution that heavily protects loss from a single key material breach. This approach greatly mitigates many of the risks associated with BTC, but still has a burden of securely storing API secrets or taking advantage of mitigations available to them in API implementation.
+
+At the end of the day, an application interacts with an API that signs transactions.
+
+The victims have strongly cleared BitGo of fault, it appears Bitfinex may not have taken advantage of (or incorrectly used) the security controls available to them through the BitGo API.
+
+Employees have also stated that per user, HD wallets backed by the BitGo API were used in lieu of any truly offline cold storage solution. This implementation suggests that authentication to BitGo's API was "warm" or "hot" leaving API and signing keys to reside on servers that could be remotely accessed by an attacker. It was also suggested that every Bitfinex BTC holder used this approach, meaning vulnerability carried 100% risk of bitcoin loss across the board.
+
+It's not currently suggested how servers were accessed for an attacker to position themselves into an attack like this, but will update if that becomes available.
 
 >We are investigating the breach to determine what happened, but we know that some of our users have had their bitcoins stolen. We are undertaking a review to determine which users have been affected by the breach. While we conduct this initial investigation and secure our environment, bitfinex.com will be taken down and the maintenance page will be left up.
+
+[1]: https://gist.github.com/magoo/f2639251b050dd2b37b53c37898c6556
