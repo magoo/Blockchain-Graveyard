@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Bitcoin7"
+title:  "Slush's Pool"
 date:   2012-03-01 11:52:03 -0700
 categories: bitcoin breach
 link: http://archive.is/e5lt
