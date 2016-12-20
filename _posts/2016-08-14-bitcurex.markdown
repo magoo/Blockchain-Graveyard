@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Bitcurex"
+date:   2016-10-14 11:52:03 -0700
+categories: infrastructure
+link: https://archive.is/KIs8m
+---
+
+Most information related to this breach is in polish. Bitcurex warned users not to use [previous deposit addresses][1], which indicates a breach. No information on a root cause is easily available. 
+
+Follow up investigation of the blockchain is mostly done by polish bitcoin press, which estimates a [2300BTC loss][2].
+
+[1]: https://archive.is/KIs8m 
+[2]: http://bitcoin.pl/wiadomosci/bezpieczenstwo/1338-bitcurex-nadal-milczy-afery-ciag-dalszy
