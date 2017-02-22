@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "ZCoin"
+date:   2017-02-21 11:52:03 -0700
+categories: protocol
+link: https://zcoin.io/language/en/zcoins-zerocoin-bug-explained-in-detail/
+---
+
+Due to a programming error in the implementation of Zerocoin, an attacker was able to exploit a single proof to generate multiple spends they could send to an exchange, in which the attackers then sold and withdrew funds. 
+
+Significant documentation on the breach is [available][1]. 
+
+>From what we can see, the attacker (or attackers) is very sophisticated and from our investigations, he (or she) did many things to camouflage his tracks through the generation of lots of exchange accounts and carefully spread out deposits and withdrawals over several weeks. We estimate the attacker has created about 370,000 Zcoins which has been almost completely sold except for about 20,000+ Zcoin and absorbed on the market with a profit of around 410 BTC. In other words, the damage has already been mostly absorbed by the markets.
+
+
+[1]: https://archive.is/HN3iV#selection-451.150-451.215
