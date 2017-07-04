@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Bithumb"
+date:   2017-02-21 11:52:03 -0700
+categories: protocol
+link: http://biz.khan.co.kr/khan_art_view.html?artid=201707021659001 
+---
+(Will update post when more thorough information is available. For now, view [bravenewcoin.com][1]
+
+> "The employee PC, not the head office server, was hacked. Personal information such as mobile phone and email address of some users were leaked. However, some customers were found to have been stolen from because of the disposable password used in electronic financial transactions.”
+
+
+[1]: https://bravenewcoin.com/news/fourth-largest-bitcoin-exchange-bithumb-hacked-for-billions-of-won 
