@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Coindash"
+date:   2017-07-17 11:52:03 -0700
+categories: protocol
+link: https://web.archive.org/web/20170717181047/https://www.coindash.io/ 
+---
+CoinDash appears to be victimized by a hacked website, which a supposed adversary swapped out a funding address with a malicious address immediately after a token sale was launched.
+
+>  Contributors that sent ETH to the fraudulent Ethereum address, which was maliciously placed on our website, and sent ETH to the CoinDash.io official address will receive their CDT tokens accordingly. Transactions sent to any fraudulent address after our website was shut down will not be compensated.
+
+> It is unfortunate for us to announce that we have suffered a hacking attack during our Token Sale event. During the attack $7 Million were stolen by a currently unknown perpetrator. The CoinDash Token Sale secured $6.4 Million from our early contributors and whitelist participants and we are grateful for your support and contribution.
+
