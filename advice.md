@@ -51,7 +51,7 @@ This started as `bitcoin_breaches.txt` on my laptop and figured it would pair we
 
 Feel free to suggest additions to the graveyard or advice section in pull requests.
 
-[bitcointalk]: https://bitcointalk.org/index.php?topic=83794.0
+[bitcointalk]: https://bitcointalk.org/index.php?topic=576337
 [SUSS]: https://medium.com/starting-up-security
 [SUS]: https://medium.com/starting-up-security/starting-up-security-87839ab21bae#.m120kdhur
 [SUSSPS]: https://medium.com/starting-up-security/starting-up-security-85382451ae2e#.i290cvwdn
