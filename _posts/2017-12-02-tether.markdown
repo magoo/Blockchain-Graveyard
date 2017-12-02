@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "Tether"
+date:   2017-11-19 11:52:03 -0700
+categories: server
+link: https://tether.to/tether-critical-announcement/
+---
+Tether lost $31 million in "tokens". Tether tokens allow you to "store, send and receive digital tokens pegged to dollars, euros, and yen person-to-person, globally". Based on wording in Tether blog posts, a "treasury wallet" was drained by an external attacker. This infers that some sort of key material, or signature generating process was misused, so I estimate this ultimately required the breach of a high risk server. This could change with new information, for instance, if the treasury wallet was cold. The Tether team claims high confidence in identifying their root cause so this is not an "unknown" root cause.
+
+> On Sunday, November 19th, $30,950,010.00 in Tether tokens were stolen from our treasury wallet through malicious action by an external attacker. While we are in the process of co-ordinating and co-operating with law enforcement on this matter, we are satisfied that we have found the cause of the breach of Tether’s systems. We are taking measures to recover the Tethers and are migrating the platform to a new infrastructure. More information about our initial response to this breach is here.
