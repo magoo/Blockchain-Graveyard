@@ -7,7 +7,7 @@ link: http://archive.is/pWTbH
 ---
 Nicehash was a cryptocurrency mining service and marketplace, allowing users to buy and sell their own mining power. While not necessarily a mining pool of its own, it still maintained a wallet for customer funds. Nicehash appears to have shuttered their website with a notice saying "a security breach involving NiceHash website" and "our payment system was compromised and the contents of the NiceHash Bitcoin wallet have been stolen".
 
-A [Facebook livestream](https://www.facebook.com/NiceHash/videos/2013146182237851/) has further notes on the issue. This is hard to archive so I will transcribe useful points. Overall, this was lateral movement from a remote IP address, gaining access to a VPN, possibly through an employee computer, and moving laterally into production systems.
+A [Facebook livestream](https://www.facebook.com/NiceHash/videos/2013146182237851/) has further notes on the issue. This is hard to archive so I will transcribe useful points. Overall, this was lateral movement from a remote IP address, gaining access to a VPN, possibly through an employee computer, and moving laterally into production systems. This appeared to all have happened within a couple of hours, when the attacker decided to work actively.
 
 1. "We became a target and someone really wanted to bring us down."
 2. "We are cooperating with local and international law enforcement".
@@ -20,6 +20,5 @@ A [Facebook livestream](https://www.facebook.com/NiceHash/videos/201314618223785
 8. After VPN login, learned and simulated the workings of our payment system.
 9. Managed to steal funds from accounts (indicates that the active attack timeline was only a couple hours)
 
-Adding this to server breach.  
 
 > On Sunday, November 19th, $30,950,010.00 in Tether tokens were stolen from our treasury wallet through malicious action by an external attacker. While we are in the process of co-ordinating and co-operating with law enforcement on this matter, we are satisfied that we have found the cause of the breach of Tether’s systems. We are taking measures to recover the Tethers and are migrating the platform to a new infrastructure. More information about our initial response to this breach is [here](https://tether.to/tether-critical-announcement/).
