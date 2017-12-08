@@ -13,12 +13,12 @@ A [Facebook livestream](https://www.facebook.com/NiceHash/videos/201314618223785
 2. "We are cooperating with local and international law enforcement".
 3. ~4700 BTC stolen on early morning 12-06-2017
 4. Can't discuss everything due to investigation.
-5. Hacker(s) were able to infiltrate our internal systems through a compromised company computer.
+5. Hacker(s) were able to *infiltrate our internal systems through a compromised company computer*.
 5. Unknown how company computer was compromised.
-6. VPN traffic had visibility into abusive behavior, IP address was outside of European Union.
-7. "Made a crucial VPN login using an engineer's credentials"
-8. After VPN login, learned and simulated the workings of our payment system.
-9. Managed to steal funds from accounts (indicates that the active attack timeline was only a couple hours)
+6. *VPN had visibility into abusive behavior*, IP address was outside of European Union.
+7. "Made a crucial VPN login using *an engineer's credentials*"
+8. After VPN login, *learned and simulated the workings of our payment system*.
+9. Managed to steal funds from accounts (indicates that the *active attack timeline was only a couple hours*)
 
 
 > On Sunday, November 19th, $30,950,010.00 in Tether tokens were stolen from our treasury wallet through malicious action by an external attacker. While we are in the process of co-ordinating and co-operating with law enforcement on this matter, we are satisfied that we have found the cause of the breach of Tether’s systems. We are taking measures to recover the Tethers and are migrating the platform to a new infrastructure. More information about our initial response to this breach is [here](https://tether.to/tether-critical-announcement/).
