@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Justcoin"
-date:   2017-11-19 11:52:03 -0700
+date:   2014-11-19 11:52:03 -0700
 categories: protocol
 link: https://www.cryptocoinsnews.com/ripple-tfpartialpayment-causes-gox-style-hack-justcoin-exchange/
 ---
