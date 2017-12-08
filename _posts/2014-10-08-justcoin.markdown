@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Justcoin"
+date:   2017-11-19 11:52:03 -0700
+categories: protocol
+link: https://www.cryptocoinsnews.com/ripple-tfpartialpayment-causes-gox-style-hack-justcoin-exchange/
+---
+Justcoin had significant losses due to a [protocol implementation issue](https://medium.com/@abrkn/partial-payments-ripple-stellar-vulnerability-in-the-wild-29aaefd8a7ac) with the Ripple protocol. A [disclosure of the issue](https://web.archive.org/web/20141010105808/https://github.com/ripple/gatewayd/issues/186) supposedly happened months before the bug was exploited.
+
+Cold storage is said to have limited losses greatly.
+
+> The consequence, allegedly, is that hackers sent deposit transactions for large amounts, e.g. 100,000, to Justcoin. They set the tfPartialPayment flag to something like .0001. The transaction would be perfectly valid, and any client unaware of this behavior in the protocol would likely not be checking for the DeliveredAmount field – since it was never documented until a week ago. The transaction Amount field says “100,000” but the DeliveredAmount is only .0001. The hacker gets credit for 100,000 but only deposits .0001. Then they make a small withdrawal, check the balance on the hotwallet address and drain as much as they can.
+
+Ripple commented on the issue [here](http://archive.is/2rXeM) and puts blame squarely on Justcoin's implementation.
+
+> Justcoin did not implement partial payments correctly. The exchange falsely credited a non-KYC’d user for a deposit, and then allowed the user to illegitimately withdraw the funds from its hot wallet. For every transaction, an exchange needs to ensure the total of user balances plus the new deposit matches the balance of its Ripple cold and hot wallets. If these balances don’t match, the exchange should stop processing the transaction. Ripple Labs has engaged Justcoin in ongoing discourse about its lack of risk and compliance controls. As demonstrated by this incident, a non-KYC’d user can steal with little fear of being identified and owning the consequences.
