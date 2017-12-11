@@ -1,5 +1,5 @@
 Poloniex is a Bitcoin exchange that has been operating since 2014. In March of 2014, an Application Vulnerability was exploited and
-caused a loss of 97 BTC. The reported cause of the hack was that did not properly check for a negative account balance
+caused a loss of 97 BTC. The reported cause of the hack was that they did not properly check for a negative account balance
 while processing multiple, simultaneous withdrawals.
 
 > The hacker found a vulnerability in the code that takes withdrawals. The hacker discovered that if you place several withdrawals
