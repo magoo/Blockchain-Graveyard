@@ -12,3 +12,5 @@ while processing multiple, simultaneous withdrawals.
 > execution queue that is processed sequentially. Each step of critical database operations is verified before proceeding, and such
 > operations are in the process of being converted to transactions. I have hired additional developers to help with tightening up
 > security at Poloniex, as well as created a bug bounty.
+
+Source: https://bitcointalk.org/index.php?topic=499580
