@@ -3,7 +3,7 @@ layout: post
 title:  "BlackWallet"
 date:   2018-01-13 11:52:03 -0700
 categories: wallet breach
-link: http://archive.is/pWTbH
+link: https://www.reddit.com/r/Stellar/comments/7q9g31/statement_blackwallet_hacks_update/?ref_source=embed&ref=share
 ---
 BlackWallet is a wallet used to send and receive Lumens (XLM) on the Stellar network. The creator of BlackWallet announced on Reddit an infrastructure compromise resulting in in a hacked website that attacked users who entered private keys into it. It should be noted that BlackWallet was not in possession of user private keys, but it was a more of a wallet client that could be used to view a wallet.
 
