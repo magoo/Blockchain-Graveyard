@@ -2,7 +2,8 @@
 layout: post
 title:  "Nicehash"
 date:   2017-12-06 11:52:03 -0700
-categories: server
+categories:
+- server
 link: http://archive.is/pWTbH
 ---
 Nicehash was a cryptocurrency mining service and marketplace, allowing users to buy and sell their own mining power. While not necessarily a mining pool of its own, it still maintained a wallet for customer funds. Nicehash appears to have shuttered their website with a notice saying "a security breach involving NiceHash website" and "our payment system was compromised and the contents of the NiceHash Bitcoin wallet have been stolen".

@@ -2,7 +2,9 @@
 layout: post
 title:  "Bitcoin Central"
 date:   2013-04-29 11:52:03 -0700
-categories: bitcoin breach
+categories:
+- account_takeover
+- server
 link: https://gist.github.com/oleganza/5465922
 ---
 This was an account takeover on the victim's cloud provider, allowing access to a server hosting a hot wallet. [This was part of a larger breach][1].

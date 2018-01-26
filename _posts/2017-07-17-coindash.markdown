@@ -2,7 +2,8 @@
 layout: post
 title:  "Coindash"
 date:   2017-07-17 11:52:03 -0700
-categories: protocol
+categories: 
+- protocol_vulnerability
 link: https://web.archive.org/web/20170717181047/https://www.coindash.io/ 
 ---
 CoinDash appears to be victimized by a hacked website, which a supposed adversary swapped out a funding address with a malicious address immediately after a token sale was launched.

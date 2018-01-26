@@ -2,7 +2,8 @@
 layout: post
 title:  "Bitcoinica"
 date:   2012-08-11 11:52:03 -0700
-categories: bitcoin breach
+categories:
+- server
 link: http://bitcoinica.blogspot.com/2012/05/bitcoinica-security-breach.html
 ---
 Infrastructure breach with access to a large hot wallet.

@@ -2,7 +2,8 @@
 layout: post
 title:  "GateCoin"
 date:   2016-05-16 11:52:03 -0700
-categories: bitcoin breach
+categories:
+- unknown
 link: http://archive.is/rcnG4
 ---
 This breach is unique in that it attacked Cold Storage. 

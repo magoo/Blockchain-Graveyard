@@ -2,7 +2,8 @@
 layout: post
 title:  "CAVirtex"
 date:   2015-02-17 11:52:03 -0700
-categories: bitcoin breach
+categories:
+- unknown
 link: http://archive.is/F7l43
 ---
 Not much detail, other than a database breach and it seems all customers were paid back. 

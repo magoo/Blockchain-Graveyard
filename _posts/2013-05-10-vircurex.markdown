@@ -2,7 +2,9 @@
 layout: post
 title:  "Vircurex"
 date:   2013-05-10 11:52:03 -0700
-categories: bitcoin breach
+categories:
+- account_takeover
+- server
 link: https://vircurex.com/Reports/2013-05.pdf
 ---
 Cloud infrastructure compromise. After an initial credential breach, the attacker escalated access through social engineering. The victim blames the hosting provider for violating their own procedure for password resets. 

@@ -2,7 +2,9 @@
 layout: post
 title:  "Bitstamp"
 date:   2015-07-01 11:52:03 -0700
-categories: Breach
+categories:
+- server
+- social_engineering
 link: https://www.bitstamp.net/article/relaunch-faq/
 ---
 If a [leaked incident report][leak] is to be believed, a VBA script embedded in a Word document was delivered via social engineering tactics over Skype to several employees. This malware was detonated on a system administrator's machine who also had access to wallet.dat files and wallet passwords. 18,866 BTC lost as deposits were stolen over the course of several days. 

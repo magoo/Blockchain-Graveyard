@@ -2,7 +2,8 @@
 layout: post
 title:  "Bitcurex"
 date:   2016-10-14 11:52:03 -0700
-categories: infrastructure
+categories:
+- server
 link: https://archive.is/KIs8m
 ---
 

@@ -2,7 +2,8 @@
 layout: post
 title:  "FlexCoin"
 date:   2014-03-04 11:52:03 -0700
-categories: bitcoin breach
+categories:
+- application_vulnerability
 link: http://archive.is/s9dUP
 ---
 "Front End" flaw implies an application vulnerability involving transactions between users of their application. It sounds like a race condition given the use of thousands of requests that were necessary to deplete the wallet before the off-chain ledger could update.

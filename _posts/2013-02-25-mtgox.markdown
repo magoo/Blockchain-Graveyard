@@ -2,7 +2,8 @@
 layout: post
 title:  "MT Gox"
 date:   2013-02-25 11:52:03 -0700
-categories: bitcoin breach
+categories:
+- unknown
 link: http://www.nytimes.com/2014/02/25/business/apparent-theft-at-mt-gox-shakes-bitcoin-world.html?_r=0
 ---
 The big one. Lots of speculation and not a lot of hard data. Everything from negligence, insider threat, and fraud has been speculated.

@@ -2,7 +2,8 @@
 layout: post
 title:  "CryptoThrift"
 date:   2014-10-07 11:52:03 -0700
-categories: bitcoin breach
+categories:
+- application_vulnerability
 link: http://archive.is/Zur5R
 ---
 Very traditional application vulnerability (SQL injection) that was brought in by a third party library. This modified their "escrow" product.

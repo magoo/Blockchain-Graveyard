@@ -2,7 +2,8 @@
 layout: post
 title:  "CoinKite"
 date:   2016-05-10 11:52:03 -0700
-categories: bitcoin breach
+categories:
+- unknown
 link: http://blog.coinkite.com/post/143941980611/security-notice
 ---
 Not much data available, but in a transition to shut down their wallet product, they somehow leaked a password database.

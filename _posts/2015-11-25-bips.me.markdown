@@ -2,7 +2,8 @@
 layout: post
 title:  "Bips.me"
 date:   2015-11-25 11:52:03 -0700
-categories: bitcoin breach
+categories:
+- unknown
 link: http://archive.is/TtdEI
 ---
 Very little information, other than that wallets were compromised.

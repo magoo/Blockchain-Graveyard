@@ -2,7 +2,8 @@
 layout: post
 title:  "Cryptoine"
 date:   2015-03-24 11:52:03 -0700
-categories: bitcoin breach
+categories:
+- application_vulnerability
 link: http://siliconangle.com/blog/2015/03/26/bitcoin-and-altcoin-exchange-cryptoine-ceases-trading-after-claiming-to-be-hacked/
 ---
 Application vulnerability involving a race condition for multiple currencies at Cryptoine.

@@ -2,7 +2,8 @@
 layout: post
 title:  "Cloudminr.io"
 date:   2015-07-13 11:52:03 -0700
-categories: bitcoin breach
+categories:
+- unknown
 link: http://archive.is/pQdiQ
 ---
 An attacker defaced the cloudminr.io  website with a "database for sale" message containing usernames and passwords.

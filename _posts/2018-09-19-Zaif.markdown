@@ -2,7 +2,8 @@
 layout: post
 title:  "Zaif"
 date:   2018-09-19 11:52:03 -0700
-categories: server
+categories: 
+- server
 link: https://prtimes.jp/main/html/rd/p/000000093.000012906.html
 ---
 Zaif, a Japanese cryptocurrency exchange, lost approximately $59 million USD of BTC, MONA, and BCH according to reporting and a press release. They specifically mention a hot wallet on a server being breached "from the outside" which I take as a remote compromise of infrastructure. Additionally, they mention that they use cold storage, which may have prevented this from being far larger.

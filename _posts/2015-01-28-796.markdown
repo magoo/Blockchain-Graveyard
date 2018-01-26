@@ -2,7 +2,8 @@
 layout: post
 title:  "796"
 date:   2015-01-28 11:52:03 -0700
-categories: bitcoin breach
+categories:
+- unknown
 link: http://cointelegraph.com/news/chinese-exchange-suffers-1000-btc-loss-in-uncertain-service-compromise
 ---
 Not much information available, other than the victim stating that the hacker was putting a lot of effort towards their attack.

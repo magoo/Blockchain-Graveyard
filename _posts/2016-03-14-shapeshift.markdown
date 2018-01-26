@@ -2,7 +2,8 @@
 layout: post
 title:  "ShapeShift.io"
 date:   2016-03-14 11:52:03 -0700
-categories: bitcoin breach
+categories:
+- insider
 link: https://news.bitcoin.com/looting-fox-sabotage-shapeshift/
 ---
 Extremely detailed [post-mortem's][1] available from this breach, involving an external hacker collaborating with an insider threat. 

@@ -2,7 +2,8 @@
 layout: post
 title:  "Trade.io"
 date:   2018-11-06 11:52:03 -0700
-categories: cold storage
+categories: 
+- cold storage
 link: https://www.zdnet.com/article/trade-io-loses-7-5mil-worth-of-cryptocurrency-in-mysterious-cold-wallet-hack/
 ---
 

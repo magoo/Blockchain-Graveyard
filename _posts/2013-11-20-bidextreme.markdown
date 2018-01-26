@@ -2,7 +2,8 @@
 layout: post
 title:  "Bid Extreme"
 date:   2013-11-20 11:52:03 -0700
-categories: bitcoin breach
+categories:
+- unknown
 link: http://www.coindesk.com/hacker-attack-polands-bitcoin-exchange/
 ---
 Very little information available. 

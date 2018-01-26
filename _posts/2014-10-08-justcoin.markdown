@@ -2,7 +2,8 @@
 layout: post
 title:  "Justcoin"
 date:   2014-11-19 11:52:03 -0700
-categories: protocol
+categories: 
+- protocol_vulnerability
 link: https://www.cryptocoinsnews.com/ripple-tfpartialpayment-causes-gox-style-hack-justcoin-exchange/
 ---
 Justcoin had significant losses due to a [protocol implementation issue](https://medium.com/@abrkn/partial-payments-ripple-stellar-vulnerability-in-the-wild-29aaefd8a7ac) with the Ripple protocol. A [disclosure of the issue](https://web.archive.org/web/20141010105808/https://github.com/ripple/gatewayd/issues/186) supposedly happened months before the bug was exploited.

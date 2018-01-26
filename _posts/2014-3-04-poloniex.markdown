@@ -2,7 +2,8 @@
 layout: post
 title:  "Poloniex"
 date:   2014-03-04 11:52:03 -0700
-categories: application
+categories:
+- application_vulnerability
 link: https://bitcointalk.org/index.php?topic=499580
 ---
 

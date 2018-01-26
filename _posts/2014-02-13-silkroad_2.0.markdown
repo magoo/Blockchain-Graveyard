@@ -2,7 +2,8 @@
 layout: post
 title:  "Silk Road 2.0"
 date:   2014-02-13 11:52:03 -0700
-categories: bitcoin breach
+categories:
+- protocol_vulnerability
 link: http://www.forbes.com/sites/andygreenberg/2014/02/13/silk-road-2-0-hacked-using-bitcoin-bug-all-its-funds-stolen/#78960a6874a5
 ---
 If you trust the operators, they blame the famous "[transaction malleability][1]" vulnerability.

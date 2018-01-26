@@ -2,7 +2,8 @@
 layout: post
 title:  "The DAO"
 date:   2016-06-17 11:52:03 -0700
-categories: bitcoin breach
+categories:
+- application_vulnerability
 link: https://blog.ethereum.org/2016/06/17/critical-update-re-dao-vulnerability/
 ---
 While technically an application vulnerability, this breach is interesting in that the vulnerability was within an Ethereum Contract. This has made the ability to patch or restore funds a very dramatic and unique situation involving miner consensus and the philosophy of ethereum's purpose as a technology. Hard and Soft forks were considered with contention to reverse the attack.

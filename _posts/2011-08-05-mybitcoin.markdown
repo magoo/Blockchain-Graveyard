@@ -2,7 +2,8 @@
 layout: post
 title:  "MyBitcoin"
 date:   2011-08-05 11:52:03 -0700
-categories: application
+categories:
+- application_vulnerability
 link: http://archive.is/LUMzs
 ---
 This sounds like an application vulnerability that allowed forged deposits that could eventually be withdrawn from a hot wallet. This sort of attack is more common with "off blockchain" wallets.

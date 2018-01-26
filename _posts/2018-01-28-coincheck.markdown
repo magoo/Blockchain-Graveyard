@@ -2,7 +2,8 @@
 layout: post
 title:  "Coincheck"
 date:   2018-01-26 11:52:03 -0700
-categories: wallet breach
+categories: 
+- wallet_breach
 link: https://www.bloomberg.com/news/articles/2018-01-26/cryptocurrencies-drop-after-japanese-exchange-halts-withdrawals
 ---
 Coincheck is a Japanese exchange that works with multiple blockchains, including [NEM](https://nem.io/). Around January 26, 2018, XEM valued at approximately $400m USD were stolen. Initial cause was unclear to Coincheck according to their statements.

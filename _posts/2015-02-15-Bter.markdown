@@ -2,7 +2,8 @@
 layout: post
 title:  "BTER"
 date:   2015-02-15 11:52:03 -0700
-categories: bitcoin breach
+categories:
+- account_takeover
 link: http://www.coindesk.com/bter-nxt-bitcoin-exchange-hack/
 ---
 Cloud infrastructure account takeover without a lot of detail.

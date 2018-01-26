@@ -1,31 +1,39 @@
 <canvas id="myChart" width="400" height="200"></canvas>
 <script>
+
+{% assign catColors = '' | split:',' %}
+{% assign catCounters = '' | split:',' %}
+{% assign allCats = '' | split:',' %}
+{% for item in site.posts %}
+  {% for category in item.categories %}
+    {% assign allCats = allCats | push: category %}
+  {% endfor %}
+{% endfor %}
+
+{% assign allCats = allCats | sort | uniq  %}
+
+{% for category in allCats %}
+  {% assign counter = 0 %}
+  {% for item in site.posts %}
+    {% if item.categories contains category %}
+      {% assign counter=counter | plus:1 %}
+    {% endif %}
+  {% endfor %}
+  {% capture color %}rgba({{counter | times: 10}}, f7, 72, 0.2){% endcapture %}
+  {% assign catColors = catColors | push: color %}
+  {% assign catCounters = catCounters | push: counter %}
+{% endfor %} 
+
 var ctx = document.getElementById("myChart");
 var myChart = new Chart(ctx, {
     type: 'bar',
     data: {
-        labels: ["Server Breach", "App Vuln", "Insider", "Cloud Acct Takeover", "Unknown", "Protocol / Cold"],
+      labels: {{ allCats | jsonify }},
         datasets: [{
             label: 'Reason for Breach',
-
-            data: [20, 12, 2, 9, 15, 6],
-
-            backgroundColor: [
-                'rgba(255, 99, 132, 0.2)',
-                'rgba(54, 162, 235, 0.2)',
-                'rgba(255, 206, 86, 0.2)',
-                'rgba(75, 192, 192, 0.2)',
-                'rgba(153, 102, 255, 0.2)',
-                'rgba(255, 159, 64, 0.2)'
-            ],
-            borderColor: [
-                'rgba(255,99,132,1)',
-                'rgba(54, 162, 235, 1)',
-                'rgba(255, 206, 86, 1)',
-                'rgba(75, 192, 192, 1)',
-                'rgba(153, 102, 255, 1)',
-                'rgba(255, 159, 64, 1)'
-            ],
+            data: {{ catCounters | jsonify }},
+            backgroundColor: {{ catColors | jsonify }},
+            borderColor: {{ catColors | jsonify }},
             borderWidth: 1
         }]
     },
