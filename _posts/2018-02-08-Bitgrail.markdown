@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Bitgrail"
+date:   2018-02-08 11:52:03 -0700
+categories: application.
+link: https://cointelegraph.com/news/bitgrail-vs-nano-who-is-responsible-for-the-150-million-theft
+---
+This is one of the harder breaches to decipher, as there are a lot of conspiracy articles and accusations by all parties involved. Underlying the Bitgrail breach seems to be some kind of application error of some sort, as opposed to a fully hijacked wallet, but this doesn't have a lot of certainty involved. The Nano core team (the currency involved) announced [suspicion of the exchange](https://medium.com/@nanocurrency/official-statement-regrading-bitgrail-insolvency-ed4422bf274b) and their claims.
+
+>We now have sufficient reason to believe that Firano has been misleading the Nano Core Team and the community regarding the solvency of the BitGrail exchange for a significant period of time.
+
+However, the [Bitgrail accusations](http://archive.is/huzBF) have pointed towards a thief, and blockchain viewing software developed by Nano.
+
+>BitGrail Srl once again confirms that it was the victim of a theft, which took advantage of malfunctions of the software made available by the NANO team (rai_node and official block explorer) and, therefore, also for these reasons and according to the law, is not absolutely responsible, for any reason, of the incident.
+.
