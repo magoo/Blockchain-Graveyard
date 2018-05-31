@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Taylor"
+date:   2018-02-08 11:52:03 -0700
+categories: Unknown
+link: http://archive.is/Rp5Gl
+---
+Taylor is described as a "smart cryptocurrency trading assistant" which allows people to day trade cryptocurrency.
+
+>Today we arrived at the office and found out that we’ve been hacked and all of our funds have been stolen. Not only the balance in ETH (*2,578.98 ETH*), but also the TAY tokens from the Team and Bounty pools.
+
+Lots of write ups from their executives shed light on their incident ([1][1], [2][2], [3][3]). The root cause appears to be a 1Password file theft. It is not clear how the file was accessed, how a hacker had positioning to view it, or whether it contained cryptographic secrets or infrastructure secrets.
+
+> Somehow the hacker got access to one of our devices and took control of one of our 1Password files.
+
+The following is also interesting:
+
+> Although we are all aware of the good practices, we confess that we may have neglected some very important details — we know that the devil is in the details.
+> As far as we know, the hacker is same person/group that supposedly hacked CypheriumChain (more than 17,000 ETH were stolen).
+> The hacker collected the amount from multiple sources in a single wallet, then transferred it to a bigger one.
+> What we can say is that it was not a smart contract exploit.
+
+[1]: http://archive.is/Rp5Gl
+[2]: http://archive.is/Zp3xl
+[3]: http://archive.is/aTkEY
