@@ -10,7 +10,7 @@ Coinrail is a South Korean cryptocurrency exchange. It is reported to have [lost
 > On June 10, there was a system check due to the hacking attempt at dawn. At present, we have confirmed that 70% of the coin rail total coin / token reserves are safely stored
 I moved to a cold wallet and it's being saved. About 80% of coins that have been confirmed to be leaked have been frozen / withdrawn / redeemed or equivalent, in consultation with their co-workers and related exchanges, while the remainder are under investigation with investigators, related exchanges and coin developers.
 
-Interestingly, South Korean Law Enforcement worked pretty quickly to [help contain the issue](https://medium.com/pundix/pundi-x-assists-coinrail-to-investigate-the-breach-incident-960c6a0e2c76) with maintainers of the blockchains that had theft.
+Interestingly, South Korean Law Enforcement worked pretty quickly to [help contain the issue](https://medium.com/pundix/pundi-x-assists-coinrail-to-investigate-the-breach-incident-960c6a0e2c76) with maintainers of the coins that had theft.
 
 [1]: http://archive.is/1SVgZ
 [2]: https://www.coindesk.com/coinrail-exchange-hacked-loses-possibly-40-million-in-cryptos/
