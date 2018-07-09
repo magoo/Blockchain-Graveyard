@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Coinrail"
+title:  "Bithumb"
 date:   2018-02-08 11:52:03 -0700
 categories: Unknown
 link: https://www.coindesk.com/bithumb-exchanges-31-million-hack-know-dont-know/
