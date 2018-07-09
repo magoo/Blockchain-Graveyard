@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Bancor"
+date:   2018-07-09 11:52:03 -0700
+categories: Unknown
+link: https://twitter.com/Bancor/status/1016420621666963457
+---
+Bancor posted early details of an investigation into a security breach regarding a smart contract. A wallet used to upgrade smart contracts was used to steal somewhere in the range of $23M. Some amount of this was mitigated by protocol level features that allow the freezing of BNT tokens.
+
+> A wallet used to upgrade some smart contracts was compromised. This compromised wallet was then used to withdraw ETH from the BNT smart contract in the amount of 24,984 ETH ($12.5M). The same wallet also stole: 229,356,645 NPXS (~$1M) 3,200,000 BNT (~$10M)
+
+Note: Charting as "unknown" until the method used to compromise the method is described.
