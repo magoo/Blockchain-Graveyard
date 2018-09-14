@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "KICKICO"
+date:   2018-07-26 09:04:00 -0500
+categories: unknown
+link: https://medium.com/@kickico/kickico-security-breach-issue-under-control-all-kickcoins-will-be-returned-ebe65a491dec
+---
+KICKICO posted details of a breach regarding their smart contract. An attacker managed to obtain the
+private key to the smart contract and used that to transfer $7.7M in funds into their posession.
+
+The attackers circumvented security checks by deleting and then recreating coins, avoiding a large
+set of suspicious transfers.
+
+Note: Charting as "unknown" until the method used to obtain the private key are disclosed
