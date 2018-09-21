@@ -2,11 +2,13 @@
 layout: post
 title:  "Parity"
 date:   2017-07-19 11:52:03 -0700
-categories: client
+categories: protocol
 link: https://paritytech.io/the-multi-sig-hack-a-postmortem/
 ---
-A "critical" vulnerability in Parity led to at least three accounts being compromised by a hacker for a total loss of $31,725,019 USD worth of ether. Specifically, Gavin Wood wrote, the vulnerability affected the contract used to create multi-signature ethereum wallets in Parity 1.5.
+A "critical" vulnerability in Parity led to at least three accounts being compromised by a hacker for a total loss of $31,725,019 USD worth of ether. The vulnerability affected the contract used to create multi-signature ethereum wallets in Parity 1.5.
 
 >  The bug was in a pair of extremely sensitive functions designed to allow the set-up of "multi-sig" wallets in the Parity Wallet software.
 
 > The functions should have been protected in order that they be usable only in one specific circumstance, as the contract was being created. However, they were entirely unguarded, which allowed the attacker to reset the ownership and usage parameters of existing wallets arbitrarily.
+
+Of note, [another issue](https://cointelegraph.com/news/accidentally-killed-it-parity-grapples-with-280-mln-locked-eth) followed this breach creating $280 million in frozen funds. So far it appears accidental and only intrusion / malicious actors in the Graveyard at the time being.
