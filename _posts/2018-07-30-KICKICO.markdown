@@ -6,9 +6,13 @@ categories: unknown
 link: https://medium.com/@kickico/kickico-security-breach-issue-under-control-all-kickcoins-will-be-returned-ebe65a491dec
 ---
 KICKICO posted details of a breach regarding their smart contract. An attacker managed to obtain the
-private key to the smart contract and used that to transfer $7.7M in funds into their posession.
+private key to the smart contract and used that to transfer $7.7M in funds into their possession.
+
+>The hackers gained access to the private key of the owner of the KickCoin smart contract. In order to hide the results of their activities, they employed methods used by the KickCoin smart contract in integration with the Bancor network: hackers destroyed tokens at approximately 40 addresses and created tokens at the other 40 addresses in the corresponding amount. In result, the total number of tokens in the network has not changed.
 
 The attackers circumvented security checks by deleting and then recreating coins, avoiding a large
-set of suspicious transfers.
+set of suspicious transfers. This may lead to future Blockchain Graveyard categorizations around smart contracts. In this case, the contract owner was compromised.
 
-Note: Charting as "unknown" until the method used to obtain the private key are disclosed
+It's important to note:
+
+>We were able to regain control over the tokens and prevent further possible losses by replacing the compromised private key with the private key of the cold storage.
