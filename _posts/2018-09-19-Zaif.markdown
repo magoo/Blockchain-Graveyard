@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Zaif"
+date:   2018-09-19 11:52:03 -0700
+categories: server
+link: https://prtimes.jp/main/html/rd/p/000000093.000012906.html
+---
+Zaif, a Japanese cryptocurrency exchange, lost approximately $59 million USD of BTC, MONA, and BCH according to reporting and a press release. They specifically mention a hot wallet on a server being breached "from the outside" which I take as a remote compromise of infrastructure. Additionally, they mention that they use cold storage, which may have prevented this from being far larger.
+
+> In order to respond to customer's deposit / withdrawal, we are keeping it in hot wallet (part cold wallet) of kept virtual currency from customer. Unauthorized access from the outside was conducted from around 17 o'clock on July 14, 1900 to around 19 o'clock on the server managing the hot wallet for the deposit and withdrawal, and the virtual wallet managed by the hot wallet Currency (BTC, MONA, BCH) was illegally remitted.
+
+>Regarding specific concrete methods of unauthorized access, etc., this case is a criminal case, it has already been requested to investigate by filing a damage report to the investigation authorities, and also in order to prevent the same kind of crime in the future I would like you to withhold me. We understand that detailed explanation is as much as possible, but I am pleased if you acknowledge it in any way.
