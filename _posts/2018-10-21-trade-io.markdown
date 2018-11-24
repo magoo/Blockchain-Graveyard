@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Trade.io"
+date:   2018-11-06 11:52:03 -0700
+categories: cold storage
+link: https://www.zdnet.com/article/trade-io-loses-7-5mil-worth-of-cryptocurrency-in-mysterious-cold-wallet-hack/
+---
+
+The Trade.io breach was widely reported as a cold storage issue, losing about $7.5 million. A fork was discussed as a result:
+
+> Preissler says the company is considering a fork of the TIO token codebase to invalidate the stolen funds, and "[protect] the value of TIO for everyone else."
+
+More information on the Trade.io blog post.
+
+> At 08:40 EST 20 October 2018, the trade.io security team was alerted to a large transaction originating from our wallet holding 50M Trade Tokens (TIO) owned by trade.io reserved for the liquidity pool. Immediately following the alert, our trade monitoring observed abnormal trading of TIO on external exchanges. These exchanges were immediately alerted to disable deposits/withdrawals and trading of TIO, and our security team began its investigation. The responsiveness by the various teams within trade.io prevented the situation from deteriorating and helped quarantine the issue.
+
+> At no point was the trade.io exchange or liquidity pool accessed or affected, and both remain operational. The breach was limited to one particular hardware wallet that was purchased directly from the manufacturer. Consequently, no customer accounts were directly affected, or customer funds lost. Investigations are ongoing, but have so far concluded that there was no technical hack on the cold storage unit, and trade.io systems remain secure and unbreached. There is also nothing to indicate theft by internal actors.
+
+The "cold storage" term should not be taken lightly, and it is claimed to be breached. It is possible to improperly create cold storage with a compromised key. There is a likelihood that the cold storage was improperly created, a likelihood of an insider, and a compromised piece of offline hardware. With so much uncertainty it is difficult to categorize this breach without more information.

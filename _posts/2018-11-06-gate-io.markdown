@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Gate.io"
+date:   2018-11-06 11:52:03 -0700
+categories: application
+link: https://www.welivesecurity.com/2018/11/06/supply-chain-attack-cryptocurrency-exchange-gate-io/
+---
+A web analytics platform called StatCounter was compromised and impacted over 700k of its customers. However, only one company was discovered to be targeted, Gate.io, which embedded the script.
+
+> According to ESET, the malicious code wouldn’t actually do anything unless the link contained a specific string: “myaccount/withdraw/BTC.” Researchers identified Gate.io to be the only website using a URL that contained this string.
+
+This attack evaded blockchain analysis, so a total loss is not available:
+
+> ESET notes the script automatically generated a new Bitcoin address each time it was run. This effectively neutralizes the ability to link Bitcoin transactions together in a meaningful way, which frustratingly protects the identity of the attackers.
