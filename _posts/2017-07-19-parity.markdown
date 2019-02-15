@@ -2,7 +2,7 @@
 layout: post
 title:  "Parity"
 date:   2017-07-19 11:52:03 -0700
-categories: protocol
+categories: protocol_vulnerability
 link: https://paritytech.io/the-multi-sig-hack-a-postmortem/
 ---
 A "critical" vulnerability in Parity led to at least three accounts being compromised by a hacker for a total loss of $31,725,019 USD worth of ether. The vulnerability affected the contract used to create multi-signature ethereum wallets in Parity 1.5.

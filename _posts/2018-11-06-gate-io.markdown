@@ -3,7 +3,7 @@ layout: post
 title:  "Gate.io"
 date:   2018-11-06 11:52:03 -0700
 categories: 
-- application
+- application_vulnerability
 link: https://www.welivesecurity.com/2018/11/06/supply-chain-attack-cryptocurrency-exchange-gate-io/
 ---
 A web analytics platform called StatCounter was compromised and impacted over 700k of its customers. However, only one company was discovered to be targeted, Gate.io, which embedded the script.

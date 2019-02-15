@@ -3,7 +3,7 @@ layout: post
 title:  "Bitgrail"
 date:   2018-02-08 11:52:03 -0700
 categories: 
-- application
+- application_vulnerability
 link: https://cointelegraph.com/news/bitgrail-vs-nano-who-is-responsible-for-the-150-million-theft
 ---
 This is one of the harder breaches to decipher, as there are a lot of conspiracy articles and accusations by all parties involved. Underlying the Bitgrail breach seems to be some kind of application error of some sort, as opposed to a fully hijacked wallet, but this doesn't have a lot of certainty involved. The Nano core team (the currency involved) announced [suspicion of the exchange](https://medium.com/@nanocurrency/official-statement-regrading-bitgrail-insolvency-ed4422bf274b) and their claims.

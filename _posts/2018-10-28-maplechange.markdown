@@ -3,7 +3,7 @@ layout: post
 title:  "MapleChange"
 date:   2018-10-28 11:52:03 -0700
 categories: 
-- application
+- application_vulnerability
 link: https://www.ibtimes.com/cryptocurrency-exchange-maplechange-hacked-exit-scam-allegations-surface-2728232
 ---
 There are heavy accusation of an exit scam, so I delayed the posting of this breach.
