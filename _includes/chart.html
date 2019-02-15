@@ -2,8 +2,10 @@
 <script>
 
 {% assign catColors = '' | split:',' %}
+{% assign catBorders = '' | split:',' %}
 {% assign catCounters = '' | split:',' %}
 {% assign allCats = '' | split:',' %}
+{% assign humanCats = '' | split:',' %}
 {% for item in site.posts %}
   {% for category in item.categories %}
     {% assign allCats = allCats | push: category %}
@@ -12,15 +14,28 @@
 
 {% assign allCats = allCats | sort | uniq  %}
 
+
 {% for category in allCats %}
   {% assign counter = 0 %}
+  {% assign humanCat = category | replace: "_", " " | capitalize %}
+  {% assign humanCats = humanCats | push: humanCat %}
   {% for item in site.posts %}
     {% if item.categories contains category %}
       {% assign counter=counter | plus:1 %}
     {% endif %}
   {% endfor %}
-  {% capture color %}rgba({{counter | times: 10}}, f7, 72, 0.2){% endcapture %}
+
+{% assign min = 65 %}
+{% assign max = 255 %}
+{% assign diff = max | minus: min %}
+{% assign randomRed = "now" | date: "%N" | modulo: diff | plus: min %}
+{% assign randomGreen = "now" | date: "%N" | modulo: 85 | plus: min %}
+{% assign randomBlue = "now" | date: "%N" | modulo: diff | plus: min %}
+  
+{% capture color %}rgba({{ randomRed }}, {{ randomGreen }}, {{ randomBlue }}, 0.2){% endcapture %}
+{% capture colorBorder %}rgba({{ randomRed }}, {{ randomGreen }}, {{ randomBlue }}, 1){% endcapture %}
   {% assign catColors = catColors | push: color %}
+  {% assign catBorders = catBorders | push: colorBorder %}
   {% assign catCounters = catCounters | push: counter %}
 {% endfor %} 
 
@@ -28,16 +43,19 @@ var ctx = document.getElementById("myChart");
 var myChart = new Chart(ctx, {
     type: 'bar',
     data: {
-      labels: {{ allCats | jsonify }},
+      labels: {{ humanCats | jsonify }},
         datasets: [{
-            label: 'Reason for Breach',
+            label: 'Number of Incidents',
             data: {{ catCounters | jsonify }},
             backgroundColor: {{ catColors | jsonify }},
-            borderColor: {{ catColors | jsonify }},
+            borderColor: {{ catBorders | jsonify }},
             borderWidth: 1
         }]
     },
     options: {
+        legend: {
+          display: false
+        },
         scales: {
             yAxes: [{
                 ticks: {
