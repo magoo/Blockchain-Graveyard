@@ -3,7 +3,7 @@ layout: post
 title:  "BitPay"
 date:   2015-09-17 11:52:03 -0700
 categories:
-- server
+- server_hot_wallet_breach
 - social_engineering
 link: http://cointelegraph.com/news/bitpay-hacked-for-over-18-million-in-bitcoins
 ---

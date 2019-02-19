@@ -3,8 +3,7 @@ layout: post
 title:  "BitFloor"
 date:   2012-10-05 11:52:03 -0700
 categories:
-- server
-- account_takeover
+- server_hot_wallet_breach
 link: https://bitcointalk.org/index.php?topic=105818.0
 ---
 Attackers likely gained access through a cloud infrastructure provider and accessed a server with unencrypted hot wallet.

@@ -2,8 +2,8 @@
 layout: post
 title:  "Bancor"
 date:   2018-07-09 11:52:03 -0700
-categories: 
-- unknown
+categories:
+- smart_contract
 link: https://twitter.com/Bancor/status/1016420621666963457
 ---
 Bancor posted early details of an investigation into a security breach regarding a smart contract. A wallet used to upgrade smart contracts was used to steal somewhere in the range of $23M. Some amount of this was mitigated by protocol level features that allow the freezing of BNT tokens.

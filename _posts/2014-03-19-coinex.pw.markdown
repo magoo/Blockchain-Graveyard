@@ -3,7 +3,7 @@ layout: post
 title:  "coinex.pw"
 date:   2014-03-19 11:52:03 -0700
 categories:
-- server
+- server_hot_wallet_breach
 link: https://bitcointalk.org/index.php?topic=265277.msg5769484#msg5769484
 ---
 Not enough information, other than a infrastructure intrusion that breached the wallet.

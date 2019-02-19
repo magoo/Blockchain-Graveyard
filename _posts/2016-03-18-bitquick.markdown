@@ -3,7 +3,7 @@ layout: post
 title:  "BitQuick"
 date:   2016-03-18 11:52:03 -0700
 categories:
-- server
+- server_hot_wallet_breach
 link: https://www.bitquick.co/blog/bitquick-details
 ---
 Not much detail provided, and appears damage was fairly limited for unknown reasons.

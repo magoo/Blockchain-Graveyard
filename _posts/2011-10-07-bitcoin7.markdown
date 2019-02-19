@@ -2,8 +2,9 @@
 layout: post
 title:  "Bitcoin7"
 date:   2011-10-07 11:52:03 -0700
-categories: 
-- server
+categories:
+- server_hot_wallet_breach
+- cloud_provider_breach
 link: http://archive.is/zgCXT
 ---
 Attackers made it onto Bitcoin7 infrastructure, due to wallets and database data being accessed. Given that "other websites" were owned, it's possible a larger unknown shared hosting provider with other customers was compromised.

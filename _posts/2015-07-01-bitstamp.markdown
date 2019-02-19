@@ -3,7 +3,7 @@ layout: post
 title:  "Bitstamp"
 date:   2015-07-01 11:52:03 -0700
 categories:
-- server
+- server_hot_wallet_breach
 - social_engineering
 link: https://www.bitstamp.net/article/relaunch-faq/
 ---
