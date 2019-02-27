@@ -2,7 +2,8 @@
 layout: post
 title:  "ExCoin"
 date:   2015-02-15 11:52:03 -0700
-categories: bitcoin breach
+categories:
+- unknown
 link: http://archive.is/ZDYw3
 ---
 Not much data, other than the name of a hacker and that they stole the entire wallet, shutting down ExCoin.

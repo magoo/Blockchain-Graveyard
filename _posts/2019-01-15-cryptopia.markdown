@@ -2,7 +2,8 @@
 layout: post
 title:  "Cryptopia"
 date:   2019-01-14 11:52:03 -0700
-categories: unknown
+categories:
+- unknown
 link: https://twitter.com/Cryptopia_NZ/status/1085084168852291586
 ---
 Cryptopia is a cryptocurrency exchange based out of New Zealand. On January 14th, 2019, they suffered a breach:

@@ -2,7 +2,9 @@
 layout: post
 title:  "Slush's Pool"
 date:   2012-03-01 11:52:03 -0700
-categories: bitcoin breach
+categories:
+- server_hot_wallet_breach
+- cloud_provider_breach
 link: http://archive.is/e5lt
 ---
 A breach at Linode was the root cause here and there's plenty of information to understand the breach. [Credentials for a customer support team member](http://archive.is/tRQ9) were used and eight Linode customers were compromised for having affliations to bitcoin.

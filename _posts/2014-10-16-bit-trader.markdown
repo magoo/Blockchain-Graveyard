@@ -2,7 +2,8 @@
 layout: post
 title:  "BitTrader"
 date:   2014-10-16 11:52:03 -0700
-categories: bitcoin breach
+categories:
+- unknown
 link: https://www.reddit.com/r/Bitcoin/comments/2jf44p/bittrader_defunct/
 ---
 Not much data available, other than that a hacker supposedly stole a wallet and then extorted the operator for further funds.

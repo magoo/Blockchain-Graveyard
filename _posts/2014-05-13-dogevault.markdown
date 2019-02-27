@@ -2,7 +2,8 @@
 layout: post
 title:  "DogeVault"
 date:   2014-05-13 11:52:03 -0700
-categories: bitcoin breach
+categories:
+- server_hot_wallet_breach
 link: http://archive.is/9NC2J
 ---
 Little information provided, though the attackers seemed to have accessed the DogeVault servers and accessed a wallet directly.

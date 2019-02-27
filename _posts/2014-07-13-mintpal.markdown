@@ -2,7 +2,8 @@
 layout: post
 title:  "MintPal"
 date:   2014-07-13 11:52:03 -0700
-categories: bitcoin breach
+categories:
+- server_hot_wallet_breach
 link: https://archive.is/6H9Xi
 ---
 Little information provided.

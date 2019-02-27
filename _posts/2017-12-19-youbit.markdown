@@ -2,7 +2,8 @@
 layout: post
 title:  "Youbit"
 date:   2017-12-19 11:52:03 -0700
-categories: bitcoin breach
+categories:
+- server_hot_wallet_breach
 link: https://themerkle.com/youbit-hacked-again-closes-its-doors/
 ---
 

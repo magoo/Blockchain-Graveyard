@@ -2,7 +2,8 @@
 layout: post
 title:  "Taylor"
 date:   2018-02-08 11:52:03 -0700
-categories: Unknown
+categories: 
+- unknown
 link: http://archive.is/Rp5Gl
 ---
 Taylor is described as a "smart cryptocurrency trading assistant" which allows people to day trade cryptocurrency.

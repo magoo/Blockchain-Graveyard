@@ -2,10 +2,11 @@
 layout: post
 title:  "GateCoin"
 date:   2016-05-16 11:52:03 -0700
-categories: bitcoin breach
+categories:
+- cold_storage
 link: http://archive.is/rcnG4
 ---
-This breach is unique in that it attacked Cold Storage. 
+This breach is unique in that it attacked Cold Storage.
 
 It is just as important to protect the deposits into cold storage as much as the cold storage itself. If cold storage deposit is modified, it's as if you don't have cold storage at all.
 

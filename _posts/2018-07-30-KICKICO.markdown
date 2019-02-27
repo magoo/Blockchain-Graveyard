@@ -2,7 +2,8 @@
 layout: post
 title:  "KICKICO"
 date:   2018-07-26 09:04:00 -0500
-categories: unknown
+categories:
+- smart_contract
 link: https://medium.com/@kickico/kickico-security-breach-issue-under-control-all-kickcoins-will-be-returned-ebe65a491dec
 ---
 KICKICO posted details of a breach regarding their smart contract. An attacker managed to obtain the

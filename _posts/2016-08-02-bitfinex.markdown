@@ -2,7 +2,8 @@
 layout: post
 title:  "Bitfinex"
 date:   2016-08-02 11:52:03 -0700
-categories: infrastructure
+categories:
+- application_vulnerability
 link: http://archive.is/CnjAn
 ---
 This is Bitfinex's second appearance in the graveyard.

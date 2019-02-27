@@ -2,7 +2,8 @@
 layout: post
 title:  "Coinrail"
 date:   2018-06-11 11:52:03 -0700
-categories: Unknown
+categories: 
+- unknown
 link: http://archive.is/1SVgZ
 ---
 Coinrail is a South Korean cryptocurrency exchange. It is reported to have [lost $40 million](2) in cryptocurrency in a post on [their website](1).

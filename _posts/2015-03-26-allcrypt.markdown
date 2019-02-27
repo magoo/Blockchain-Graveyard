@@ -2,7 +2,8 @@
 layout: post
 title:  "Allcrypt"
 date:   2015-03-26 11:52:03 -0700
-categories: bitcoin breach
+categories:
+- server_hot_wallet_breach
 link: https://archive.is/2UY7e
 ---
 An attacker used a simple account takeover with multiple pivots to gain server access to a wallet.

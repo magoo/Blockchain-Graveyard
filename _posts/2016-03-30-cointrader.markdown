@@ -2,7 +2,8 @@
 layout: post
 title:  "CoinTrader"
 date:   2016-03-30 11:52:03 -0700
-categories: bitcoin breach
+categories:
+- unknown
 link: http://www.coindesk.com/bitcoin-exchange-cointrader-shuts-down/
 ---
 Not much data available, other than that it has completely shut down after a suspected breach.

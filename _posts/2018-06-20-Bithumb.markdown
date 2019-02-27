@@ -2,7 +2,8 @@
 layout: post
 title:  "Bithumb"
 date:   2018-02-08 11:52:03 -0700
-categories: Unknown
+categories: 
+- unknown
 link: https://www.coindesk.com/bithumb-exchanges-31-million-hack-know-dont-know/
 ---
 This is Bithumb's second appearance in the graveyard. 35 billion Korean won (around $31 million) is estimated to have been stolen, and data about root cause is sparse.

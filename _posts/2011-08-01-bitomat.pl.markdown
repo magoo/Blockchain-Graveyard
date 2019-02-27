@@ -2,10 +2,11 @@
 layout: post
 title:  "Bitomat.pl"
 date:   2011-08-01 11:52:03 -0700
-categories: infrastructure
+categories:
+- server_hot_wallet_breach
 link: http://archive.is/ANGeU
 ---
-The cause is very uncertain. The operator suspects a third party destroying a host on AWS, but it looks like operator error is highly possible due to the "breach" occurring during a major upgrade. 
+The cause is very uncertain. The operator suspects a third party destroying a host on AWS, but it looks like operator error is highly possible due to the "breach" occurring during a major upgrade.
 
 (Translated)
 

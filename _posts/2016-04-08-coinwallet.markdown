@@ -2,7 +2,8 @@
 layout: post
 title:  "CoinWallet"
 date:   2016-04-08 11:52:03 -0700
-categories: bitcoin breach
+categories:
+- application_vulnerability
 link: http://archive.is/Nmxrb
 ---
 Application vulnerability due to a lack of input sanitation, type unknown, though it does reference a "database call" which implies some form of database injection like [SQLi][1].

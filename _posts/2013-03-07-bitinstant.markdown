@@ -2,7 +2,9 @@
 layout: post
 title:  "BitInstant"
 date:   2013-03-07 11:52:03 -0700
-categories: bitcoin breach
+categories:
+- cloud_provider_breach
+- server_hot_wallet_breach
 link: http://archive.is/NtRDX
 ---
 Attacker pivoted several times after initially gaining access to the victim's domain registrar via social engineering. This then allowed a DNS hijack, allowing them to route password resets to the attacker. Attacker then took over cloud infrastructure hosting wallets.

@@ -2,7 +2,8 @@
 layout: post
 title:  "ZCoin"
 date:   2017-02-21 11:52:03 -0700
-categories: protocol
+categories:
+- protocol_vulnerability
 link: https://zcoin.io/language/en/zcoins-zerocoin-bug-explained-in-detail/
 ---
 

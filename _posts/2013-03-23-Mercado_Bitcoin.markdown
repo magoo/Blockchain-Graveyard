@@ -2,7 +2,8 @@
 layout: post
 title:  "Mercado Bitcoin"
 date:   2013-03-23 11:52:03 -0700
-categories: bitcoin breach
+categories:
+- application_vulnerability
 link: http://pastebin.com/PZfuZM3X
 ---
 This is a tough translation but it seems like a clear application vulnerability involving some kind of coupon code system.

@@ -2,7 +2,9 @@
 layout: post
 title:  "inputs.io"
 date:   2013-11-07 11:52:03 -0700
-categories: bitcoin breach
+categories:
+- server_hot_wallet_breach
+- cloud_infrastructure_breach
 link: http://archive.is/1eyKg
 ---
 Cloud infrastructure account takeover. Some kind of 2FA bypass exploit as well. Source code, wallets, and user data exfiltrated by attacker.
