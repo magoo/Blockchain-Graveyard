@@ -1,6 +1,8 @@
 <canvas id="myChart" width="400" height="200"></canvas>
 <script>
 
+{% assign setColors = '' | split:',' %}
+{% assign setBorders = '' | split:',' %}
 {% assign catColors = '' | split:',' %}
 {% assign catBorders = '' | split:',' %}
 {% assign catCounters = '' | split:',' %}
@@ -14,6 +16,27 @@
 
 {% assign allCats = allCats | sort | uniq  %}
 
+{% comment %}
+We are setting a static list of colors, and iterating through them, so the colors do not look
+horrible. We can always add colors here to expand the palette as desired.
+{% endcomment %}
+{% assign setColors = setColors | push: 'rgba(255, 99, 132, 0.2)' %}
+{% assign setColors = setColors | push: 'rgba(54, 162, 235, 0.2)' %}
+{% assign setColors = setColors | push: 'rgba(255, 206, 86, 0.2)' %}
+{% assign setColors = setColors | push: 'rgba(75, 192, 192, 0.2)' %}
+{% assign setColors = setColors | push: 'rgba(153, 102, 255, 0.2)' %}
+{% assign setColors = setColors | push: 'rgba(255, 159, 64, 0.2)' %}
+
+{% assign setBorders = setBorders | push: 'rgba(255, 99, 132, 1)' %}
+{% assign setBorders = setBorders | push: 'rgba(54, 162, 235, 1)' %}
+{% assign setBorders = setBorders | push: 'rgba(255, 206, 86, 1)' %}
+{% assign setBorders = setBorders | push: 'rgba(75, 192, 192, 1)' %}
+{% assign setBorders = setBorders | push: 'rgba(153, 102, 255, 1)' %}
+{% assign setBorders = setBorders | push: 'rgba(255, 159, 64, 1)' %}
+
+{% assign colorMod = setColors | size %}
+
+{{ assign index = 0 }}
 
 {% for category in allCats %}
   {% assign counter = 0 %}
@@ -25,18 +48,11 @@
     {% endif %}
   {% endfor %}
 
-{% assign min = 65 %}
-{% assign max = 255 %}
-{% assign diff = max | minus: min %}
-{% assign randomRed = "now" | date: "%N" | modulo: diff | plus: min %}
-{% assign randomGreen = "now" | date: "%N" | modulo: 85 | plus: min %}
-{% assign randomBlue = "now" | date: "%N" | modulo: diff | plus: min %}
-  
-{% capture color %}rgba({{ randomRed }}, {{ randomGreen }}, {{ randomBlue }}, 0.2){% endcapture %}
-{% capture colorBorder %}rgba({{ randomRed }}, {{ randomGreen }}, {{ randomBlue }}, 1){% endcapture %}
-  {% assign catColors = catColors | push: color %}
-  {% assign catBorders = catBorders | push: colorBorder %}
+  {% assign colorIndex = index | modulo: colorMod %}
+  {% assign catColors = catColors | push: setColors[colorIndex] %}
+  {% assign catBorders = catBorders | push: setBorders[colorIndex] %}
   {% assign catCounters = catCounters | push: counter %}
+  {% assign index = index | plus:1 %}
 {% endfor %} 
 
 var ctx = document.getElementById("myChart");
