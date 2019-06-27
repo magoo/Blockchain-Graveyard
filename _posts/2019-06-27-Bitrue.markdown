@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Bitrue"
+date:   2019-06-27 11:52:03 -0700
+categories:
+- unknown
+link: https://twitter.com/BitrueOfficial/status/1144066874147131392
+---
+9.3 million XRP and 2.5 million ADA stolen from 90 individuals. The root cause seems to be described [here](https://twitter.com/BitrueOfficial/status/1144066877154447360):
+
+> At approximately 1am June 27 (GMT+8), a hacker exploited a vulnerability in our Risk Control team's 2nd review process to access the personal funds of about 90 Bitrue users.
+
+> The hacker used what they learned from this breach to then access the Bitrue hot wallet and move 9.3 million XRP and 2.5 million ADA to different exchanges.
+
+This is described as an issue that depleted a hot wallet, but doesn't seem to have compromised the key material backing it. It describes malicious usage of a tool which can transfer funds from a hot wallet. It's not described how this tool was accessed. 
+
+They note that [cold storage](https://twitter.com/BitrueOfficial/status/1144080308817448960) was a useful mitigation.
+
+It's not clear how this tool was accessed, I will update if new information comes out.

@@ -1,0 +1,25 @@
+---
+layout: post
+title:  "Binance"
+date:   2019-05-07 11:52:03 -0700
+categories:
+- unknown
+link: https://www.binance.com/en/support/articles/360028031711
+---
+Estimates put this breach squarely at 7000 BTC, given it is in a [single transaction](https://www.blockchain.com/btc/tx/e8b406091959700dbffcff30a60b190133721e5c39e89bb5fe23c5a554ab05ea). There is not a lot of technical details released in the [multiple](https://www.binance.com/en/support/articles/360028031711) [follow](https://www.binance.com/en/support/articles/360027851252-Security-Update-API-Key-Reset) [ups](https://www.binance.com/en/blog/336904059293999104/Security-Incident-Recap) [from](https://www.binance.com/en/blog/333497959022997504/Binance-Security-Incident-Update-2) [Binance](https://www.binance.com/en/blog/336904059293999104/Security-Incident-Recap).
+
+I can't make a strong estimation on root cause regardless of the number of statements made by Binance. The most informative statements are below:
+
+> We are making significant changes to the API, 2FA, and withdrawal validation areas, *which was an area exploited by hackers during this incident*. We are improving our risk management, user behavior analysis, and KYC procedures. We are working on more innovative ways to fight phishing. We also have a number of additional security measures being implemented not directly visible on the front end.
+
+This suggests normal application withdrawal flows were used as opposed to a hot wallet or key material breach, but doesn't explain the volume or necessity for a blog post if these came from common attacks on customers. It's unclear how these were gathered, which leaves open the possibility of a backend database breach or attacks on the customers directly.
+
+> Impact-wise, the single BTC transaction of about 7000 BTC is the only transaction in which funds were stolen, and it’s quite simple to verify this on the blockchain.
+
+This might suggest that transactions are batched up and somehow the attack bypassed security policy this way by performing several application actions resulting in one complex withdrawal, which might indicate that these transactions happened suddenly. This leaves further uncertainty about how the breach occurred.
+
+> Hackers were able to obtain a large number of user API keys, 2FA codes, and potentially other info. The hackers used a variety of techniques, including phishing, viruses and other attacks. We are still concluding all possible methods used. There may also be additional affected accounts that have not been identified yet.
+
+It's hard to say whether these were obtained from attacks on consumers directly or by a backend attack on Binance. The details released are more narrative than technical, so we're not left with much to learn from.
+
+I'm categorizing this as unknown. I'd be willing to change this with better post mortem data, or, perhaps making a new category for a coordinated account takeover against customers.
