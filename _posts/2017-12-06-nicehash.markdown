@@ -20,3 +20,12 @@ A [Facebook livestream](https://www.facebook.com/NiceHash/videos/201314618223785
 7. "Made a crucial VPN login using *an engineer's credentials*"
 8. After VPN login, *learned and simulated the workings of our payment system*.
 9. Managed to steal funds from accounts (indicates that the *active attack timeline was only a couple hours*)
+
+Shortly after the hack was made public, NiceHash head of marketing Andrej P. Škraba told Reuters that the hack was “a highly professional attack with sophisticated social engineering” and that about 4,700 bitcoin, worth about $63.92 million at current prices, were lost. With this insight, one could assume that the initial access was gained via spear phishing, and then combined with lateral movement or escalation of privledges to ultimately steal the bitcoin.
+
+Update 1: In the aftermath, the CEO resigned and the company decided to return the stolen funds through a Repayment program. 71% of the old funds was already reimbursed by January 2019. Nicehash is still operating as of October 2019.
+
+Update 2: In October of 2019, [news broke](https://www.coindesk.com/former-nicehash-cto-arrested-in-germany-over-us-hacking-charges) that the CTO of Nicehash was arrested for hacking-related crimes, though [the indictment](https://krebsonsecurity.com/wp-content/uploads/2019/10/newdarkodecharges.pdf) makes no mention of Nicehash..
+
+>  Matjaz Skorjanec is wanted in the U.S. for founding and running the cybercrime forum Darkode from 2008 to 2013, as well as for the creation and deployment of one of the largest botnets ever, Mariposa.
+
