@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Upbit"
+date:   2019-11-29 16:19:00 -0100
+categories:
+- unknown
+link: https://sg.upbit.com/service_center/notice?id=2312
+---
+
+342,000 ETH was stolen from Upbit hot wallet on November 27, 2019. A full post mortem has not been released yet, though it looks like the unauthorised transaction was signed from a different process as; hot <-> cold wallet reassignment and user withdrawals due to onchain variables: input data, gas limit, gas price.
+
+Popular service (whale_alert) [tweeted the transaction](https://twitter.com/whale_alert/status/1199540095126257664) on November 27, 2019 very shortly after the transaction was confirmed on the Ethereum (ETH) Network.
+
+Upbit took an impressive 50 minutes to be notified and roll out a plan to secure their remaining funds and issue an announcement.
+
