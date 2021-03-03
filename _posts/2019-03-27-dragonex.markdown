@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "DragonEx"
+date:   2019-03-24 11:52:03 -0700
+categories:
+- unknown
+link: https://t.me/DragonEx_EN/50126
+---
+
+DragonEx is a cryptocurrency exchange based out of Singapore. On March 24th,
+they suffered a breach:
+
+> On March 24th, DragonEx has encountered attacks from hackers, our users’ crypto assets and Platform crypto assets were transferred and stolen. Part of the assets were retrieved back, and we will do our best to retrieve back the rest of stolen assets. Several Judicial administrations were informed about this cyber crime case including Estonia, Thailand, Singapore, HongKong etc. and we’re assisting policemen to do investigation. All platform services will be closed and the accurate assets loss recovery situation will be announced in a week. For the loss caused to our users, DragonEx will take the responsibility no matter what.
+
+At least part of the assets were [recovered](https://nakedsecurity.sophos.com/2019/03/27/dragonex-exchange-hacked-smoking-ashes-being-raked-over/) as the exchange enlisted other exchanges to freeze wallets that received the stolen tokens. Estimates put the losses at [$7m](https://news.bitstarz.com/dragonex-says-7-million-taken-in-recent-hack).
+
