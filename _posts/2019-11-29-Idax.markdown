@@ -3,8 +3,8 @@ layout: post
 title:  "Idax"
 date:   2019-11-29 10:40:00 -0100
 categories:
-- unknown
-link: https://idax.zendesk.com/hc/en-us/articles/360037327571-Urgent-announcement-about-current-situation-of-IDAX-Global
+- insider
+link: https://web.archive.org/web/20191203112052/https://idax.zendesk.com/hc/en-us/articles/360037327571-Urgent-announcement-about-current-situation-of-IDAX-Global
 ---
 
 Idax has confirmed that since November 24, 2019, the Idax CEO went missing with sole access to the exchanges cold wallets.
