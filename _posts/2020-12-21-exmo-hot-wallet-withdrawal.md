@@ -3,7 +3,7 @@ layout: post
 title:  "Exmo hot wallet large withdrawals"
 date:   2020-12-21 01:00:00 -0100
 categories:
-- unknown
+- server_hot_wallet_breach
 link: https://info.exmo.com/en/notifications/exmo-security-incident-update/
 ---
 
