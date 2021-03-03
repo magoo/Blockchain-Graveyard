@@ -5,7 +5,7 @@ title:  "Livecoin fully compromised"
 date:   2020-12-24 19:00:00 -0100
 categories:
 - unknown
-link: https://www.livecoin.net/
+link: https://www.zdnet.com/article/russian-crypto-exchange-livecoin-hacked-after-it-lost-control-of-its-servers/
 ---
 
 Livecoin landing website was overwritten with the following message (with a RU translation underneath)
