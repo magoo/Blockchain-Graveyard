@@ -3,11 +3,11 @@ layout: post
 title:  "KuCoin"
 date:   2020-09-26 11:06:25 -0100
 categories:
-- unknown
+- server_hot_wallet_breach
 link: https://www.kucoin.com/news/en-the-latest-updates-about-the-kucoin-security-incident
 ---
 
-KuCoin acknowleges their hot wallets drained of over $150,000,000 worth of assets, including ETH, ERC20 tokens, and Bitcoin. 
+KuCoin acknowledges their hot wallets drained of over $150,000,000 worth of assets, including ETH, ERC20 tokens, and Bitcoin. 
 Tether company has frozen 20,000,000 USDT withdrawn from KuCoin to prevent bad actors from moving those tokens around.
 
 Suspicious addresses listed below:
