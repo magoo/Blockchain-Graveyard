@@ -18,3 +18,9 @@ github_username:  magoo
 
 # Build settings
 markdown: kramdown
+
+jekyll_compose:
+  default_front_matter:
+    posts:
+      categories:
+      link:
