@@ -2,7 +2,8 @@
 layout: post
 title: Lightning Network Consensus Bug
 date: 2022-11-01 10:44 -0800
-categories: smart_contract
+categories:
+- protocol_vulnerability
 link: https://github.com/btcsuite/btcd/issues/1906
 ---
 Consensus conflict between btcd and core.
